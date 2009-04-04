@@ -2,4 +2,18 @@ Scrapes Dining Common menus and makes a database.
 
 Procudure:
 
-Download Dining Common menus (http://www.housing.ucsb.edu/dining/dining-menus.htm) 
+1) Download Dining Common menus (http://www.housing.ucsb.edu/dining/dining-menus.htm)
+
+names:
+dlg
+carrillo
+portola
+ortega
+
+http://www.housing.ucsb.edu/dining/menu/<name>/ThisWeekMenu.pdf
+http://www.housing.ucsb.edu/dining/menu/<name>/NextWeekMenu.pdf
+
+2)
+
+Scrape PDFs
+
