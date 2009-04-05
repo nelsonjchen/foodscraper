@@ -24,8 +24,27 @@ http://www.housing.ucsb.edu/dining/menu/<name>/NextWeekMenu.pdf
 Page 
 Boundaries in XML
 
-811 From Top <bottom most>
+811 From Top <bottom most> Not Reliable
 <text top="811" left="51" width="76" height="14" font="388">Colorful Coleslaw</text>
 
-67 From Top <Meal>
+67 From Top <Meal> Reliable
 <text top="67" left="30" width="74" height="25" font="2">Lunch</text>
+
+Columns
+
+First Column is 51
+<text top="811" left="51" width="76" height="14" font="388">Colorful Coleslaw</text>
+
+Second Column is +199
+<text top="192" left="250" width="78" height="14" font="40">Turkey Rice Soup</text>
+
+Third Column is +199
+
+Fourth Column is +199
+
+Fifth Column is +199
+
+Sixth Column is +199
+
+Seventh Column is +199
+
