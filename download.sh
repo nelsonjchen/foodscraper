@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 mkdir "$(dirname $0)/menus"
-# Grab PDF and make XML
+# Grabs PDF and make XML
 
 # DLG
 curl http://www.housing.ucsb.edu/dining/menu/dlg/ThisWeekMenu.pdf -o "$(dirname $0)/menus/this_week_dlg.pdf"
