@@ -19,5 +19,7 @@ curl http://www.housing.ucsb.edu/dining/menu/carrillo/ThisWeekMenu.pdf -o "$(dir
 curl http://www.housing.ucsb.edu/dining/menu/carrillo/NextWeekMenu.pdf -o "$(dirname $0)/menus/next_week_carrillo.pdf"
 
 for i in menus/*.pdf; do
+	echo $i
 	$HOME/bin/pdftohtml $i -i -xml
+	rm $i
 done
