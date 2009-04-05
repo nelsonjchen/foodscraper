@@ -1,0 +1,1619 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="918" width="1512">
+	<fontspec id="0" size="18" family="Helvetica" color="#000000"/>
+	<fontspec id="1" size="25" family="Helvetica" color="#000000"/>
+	<fontspec id="2" size="25" family="Helvetica" color="#000000"/>
+	<fontspec id="3" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="4" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="5" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="6" size="9" family="Times" color="#000000"/>
+	<fontspec id="7" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="8" size="18" family="Helvetica" color="#000000"/>
+	<fontspec id="9" size="18" family="Helvetica" color="#000000"/>
+	<fontspec id="10" size="18" family="Helvetica" color="#000000"/>
+	<fontspec id="11" size="18" family="Helvetica" color="#000000"/>
+	<fontspec id="12" size="18" family="Helvetica" color="#000000"/>
+	<fontspec id="13" size="25" family="Helvetica" color="#000000"/>
+	<fontspec id="14" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="15" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="16" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="17" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="18" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="19" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="20" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="21" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="22" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="23" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="24" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="25" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="26" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="27" size="9" family="Times" color="#000000"/>
+	<fontspec id="28" size="9" family="Times" color="#000000"/>
+	<fontspec id="29" size="9" family="Times" color="#000000"/>
+	<fontspec id="30" size="9" family="Times" color="#000000"/>
+	<fontspec id="31" size="9" family="Times" color="#000000"/>
+	<fontspec id="32" size="9" family="Times" color="#000000"/>
+	<fontspec id="33" size="9" family="Times" color="#000000"/>
+	<fontspec id="34" size="9" family="Times" color="#000000"/>
+	<fontspec id="35" size="9" family="Times" color="#000000"/>
+	<fontspec id="36" size="9" family="Times" color="#000000"/>
+	<fontspec id="37" size="9" family="Times" color="#000000"/>
+	<fontspec id="38" size="9" family="Times" color="#000000"/>
+	<fontspec id="39" size="9" family="Times" color="#000000"/>
+	<fontspec id="40" size="9" family="Times" color="#000000"/>
+	<fontspec id="41" size="9" family="Times" color="#000000"/>
+	<fontspec id="42" size="9" family="Times" color="#000000"/>
+	<fontspec id="43" size="9" family="Times" color="#000000"/>
+	<fontspec id="44" size="9" family="Times" color="#000000"/>
+	<fontspec id="45" size="9" family="Times" color="#000000"/>
+	<fontspec id="46" size="9" family="Times" color="#000000"/>
+	<fontspec id="47" size="9" family="Times" color="#000000"/>
+	<fontspec id="48" size="9" family="Times" color="#000000"/>
+	<fontspec id="49" size="9" family="Times" color="#000000"/>
+	<fontspec id="50" size="9" family="Times" color="#000000"/>
+	<fontspec id="51" size="9" family="Times" color="#000000"/>
+	<fontspec id="52" size="9" family="Times" color="#000000"/>
+	<fontspec id="53" size="9" family="Times" color="#000000"/>
+	<fontspec id="54" size="9" family="Times" color="#000000"/>
+	<fontspec id="55" size="9" family="Times" color="#000000"/>
+	<fontspec id="56" size="9" family="Times" color="#000000"/>
+	<fontspec id="57" size="9" family="Times" color="#000000"/>
+	<fontspec id="58" size="9" family="Times" color="#000000"/>
+	<fontspec id="59" size="9" family="Times" color="#000000"/>
+	<fontspec id="60" size="9" family="Times" color="#000000"/>
+	<fontspec id="61" size="9" family="Times" color="#000000"/>
+	<fontspec id="62" size="9" family="Times" color="#000000"/>
+	<fontspec id="63" size="9" family="Times" color="#000000"/>
+	<fontspec id="64" size="9" family="Times" color="#000000"/>
+	<fontspec id="65" size="9" family="Times" color="#000000"/>
+	<fontspec id="66" size="9" family="Times" color="#000000"/>
+	<fontspec id="67" size="9" family="Times" color="#000000"/>
+	<fontspec id="68" size="9" family="Times" color="#000000"/>
+	<fontspec id="69" size="9" family="Times" color="#000000"/>
+	<fontspec id="70" size="9" family="Times" color="#000000"/>
+	<fontspec id="71" size="9" family="Times" color="#000000"/>
+	<fontspec id="72" size="9" family="Times" color="#000000"/>
+	<fontspec id="73" size="9" family="Times" color="#000000"/>
+	<fontspec id="74" size="9" family="Times" color="#000000"/>
+	<fontspec id="75" size="9" family="Times" color="#000000"/>
+	<fontspec id="76" size="9" family="Times" color="#000000"/>
+	<fontspec id="77" size="9" family="Times" color="#000000"/>
+	<fontspec id="78" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="79" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="80" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="81" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="82" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="83" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="84" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="85" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="86" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="87" size="9" family="Times" color="#000000"/>
+	<fontspec id="88" size="9" family="Times" color="#000000"/>
+	<fontspec id="89" size="9" family="Times" color="#000000"/>
+	<fontspec id="90" size="9" family="Times" color="#000000"/>
+	<fontspec id="91" size="9" family="Times" color="#000000"/>
+	<fontspec id="92" size="9" family="Times" color="#000000"/>
+	<fontspec id="93" size="9" family="Times" color="#000000"/>
+	<fontspec id="94" size="9" family="Times" color="#000000"/>
+	<fontspec id="95" size="9" family="Times" color="#000000"/>
+	<fontspec id="96" size="9" family="Times" color="#000000"/>
+	<fontspec id="97" size="9" family="Times" color="#000000"/>
+	<fontspec id="98" size="9" family="Times" color="#000000"/>
+	<fontspec id="99" size="9" family="Times" color="#000000"/>
+	<fontspec id="100" size="9" family="Times" color="#000000"/>
+	<fontspec id="101" size="9" family="Times" color="#000000"/>
+	<fontspec id="102" size="9" family="Times" color="#000000"/>
+	<fontspec id="103" size="9" family="Times" color="#000000"/>
+	<fontspec id="104" size="9" family="Times" color="#000000"/>
+	<fontspec id="105" size="9" family="Times" color="#000000"/>
+	<fontspec id="106" size="9" family="Times" color="#000000"/>
+	<fontspec id="107" size="9" family="Times" color="#000000"/>
+	<fontspec id="108" size="9" family="Times" color="#000000"/>
+	<fontspec id="109" size="9" family="Times" color="#000000"/>
+	<fontspec id="110" size="9" family="Times" color="#000000"/>
+	<fontspec id="111" size="9" family="Times" color="#000000"/>
+	<fontspec id="112" size="9" family="Times" color="#000000"/>
+	<fontspec id="113" size="9" family="Times" color="#000000"/>
+	<fontspec id="114" size="9" family="Times" color="#000000"/>
+	<fontspec id="115" size="9" family="Times" color="#000000"/>
+	<fontspec id="116" size="9" family="Times" color="#000000"/>
+	<fontspec id="117" size="9" family="Times" color="#000000"/>
+	<fontspec id="118" size="9" family="Times" color="#000000"/>
+	<fontspec id="119" size="9" family="Times" color="#000000"/>
+	<fontspec id="120" size="9" family="Times" color="#000000"/>
+	<fontspec id="121" size="9" family="Times" color="#000000"/>
+	<fontspec id="122" size="9" family="Times" color="#000000"/>
+	<fontspec id="123" size="9" family="Times" color="#000000"/>
+	<fontspec id="124" size="9" family="Times" color="#000000"/>
+	<fontspec id="125" size="9" family="Times" color="#000000"/>
+	<fontspec id="126" size="9" family="Times" color="#000000"/>
+	<fontspec id="127" size="9" family="Times" color="#000000"/>
+	<fontspec id="128" size="9" family="Times" color="#000000"/>
+	<fontspec id="129" size="9" family="Times" color="#000000"/>
+	<fontspec id="130" size="9" family="Times" color="#000000"/>
+	<fontspec id="131" size="9" family="Times" color="#000000"/>
+	<fontspec id="132" size="9" family="Times" color="#000000"/>
+	<fontspec id="133" size="9" family="Times" color="#000000"/>
+	<fontspec id="134" size="9" family="Times" color="#000000"/>
+	<fontspec id="135" size="9" family="Times" color="#000000"/>
+	<fontspec id="136" size="9" family="Times" color="#000000"/>
+	<fontspec id="137" size="9" family="Times" color="#000000"/>
+	<fontspec id="138" size="9" family="Times" color="#000000"/>
+	<fontspec id="139" size="9" family="Times" color="#000000"/>
+	<fontspec id="140" size="9" family="Times" color="#000000"/>
+	<fontspec id="141" size="9" family="Times" color="#000000"/>
+	<fontspec id="142" size="9" family="Times" color="#000000"/>
+	<fontspec id="143" size="9" family="Times" color="#000000"/>
+	<fontspec id="144" size="9" family="Times" color="#000000"/>
+	<fontspec id="145" size="9" family="Times" color="#000000"/>
+	<fontspec id="146" size="9" family="Times" color="#000000"/>
+	<fontspec id="147" size="9" family="Times" color="#000000"/>
+	<fontspec id="148" size="9" family="Times" color="#000000"/>
+	<fontspec id="149" size="9" family="Times" color="#000000"/>
+	<fontspec id="150" size="9" family="Times" color="#000000"/>
+	<fontspec id="151" size="9" family="Times" color="#000000"/>
+	<fontspec id="152" size="9" family="Times" color="#000000"/>
+	<fontspec id="153" size="9" family="Times" color="#000000"/>
+	<fontspec id="154" size="9" family="Times" color="#000000"/>
+	<fontspec id="155" size="9" family="Times" color="#000000"/>
+	<fontspec id="156" size="9" family="Times" color="#000000"/>
+	<fontspec id="157" size="9" family="Times" color="#000000"/>
+	<fontspec id="158" size="9" family="Times" color="#000000"/>
+	<fontspec id="159" size="9" family="Times" color="#000000"/>
+	<fontspec id="160" size="9" family="Times" color="#000000"/>
+	<fontspec id="161" size="9" family="Times" color="#000000"/>
+	<fontspec id="162" size="9" family="Times" color="#000000"/>
+	<fontspec id="163" size="9" family="Times" color="#000000"/>
+	<fontspec id="164" size="9" family="Times" color="#000000"/>
+	<fontspec id="165" size="9" family="Times" color="#000000"/>
+	<fontspec id="166" size="9" family="Times" color="#000000"/>
+	<fontspec id="167" size="9" family="Times" color="#000000"/>
+	<fontspec id="168" size="9" family="Times" color="#000000"/>
+	<fontspec id="169" size="9" family="Times" color="#000000"/>
+	<fontspec id="170" size="9" family="Times" color="#000000"/>
+	<fontspec id="171" size="9" family="Times" color="#000000"/>
+	<fontspec id="172" size="9" family="Times" color="#000000"/>
+	<fontspec id="173" size="9" family="Times" color="#000000"/>
+	<fontspec id="174" size="9" family="Times" color="#000000"/>
+	<fontspec id="175" size="9" family="Times" color="#000000"/>
+	<fontspec id="176" size="9" family="Times" color="#000000"/>
+	<fontspec id="177" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="178" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="179" size="9" family="Times" color="#000000"/>
+	<fontspec id="180" size="9" family="Times" color="#000000"/>
+	<fontspec id="181" size="9" family="Times" color="#000000"/>
+	<fontspec id="182" size="9" family="Times" color="#000000"/>
+	<fontspec id="183" size="9" family="Times" color="#000000"/>
+	<fontspec id="184" size="9" family="Times" color="#000000"/>
+	<fontspec id="185" size="9" family="Times" color="#000000"/>
+	<fontspec id="186" size="9" family="Times" color="#000000"/>
+	<fontspec id="187" size="9" family="Times" color="#000000"/>
+	<fontspec id="188" size="9" family="Times" color="#000000"/>
+	<fontspec id="189" size="9" family="Times" color="#000000"/>
+	<fontspec id="190" size="9" family="Times" color="#000000"/>
+	<fontspec id="191" size="9" family="Times" color="#000000"/>
+	<fontspec id="192" size="9" family="Times" color="#000000"/>
+	<fontspec id="193" size="9" family="Times" color="#000000"/>
+	<fontspec id="194" size="9" family="Times" color="#000000"/>
+	<fontspec id="195" size="9" family="Times" color="#000000"/>
+	<fontspec id="196" size="9" family="Times" color="#000000"/>
+	<fontspec id="197" size="9" family="Times" color="#000000"/>
+	<fontspec id="198" size="9" family="Times" color="#000000"/>
+	<fontspec id="199" size="9" family="Times" color="#000000"/>
+	<fontspec id="200" size="9" family="Times" color="#000000"/>
+	<fontspec id="201" size="9" family="Times" color="#000000"/>
+	<fontspec id="202" size="9" family="Times" color="#000000"/>
+	<fontspec id="203" size="9" family="Times" color="#000000"/>
+	<fontspec id="204" size="9" family="Times" color="#000000"/>
+	<fontspec id="205" size="9" family="Times" color="#000000"/>
+	<fontspec id="206" size="9" family="Times" color="#000000"/>
+	<fontspec id="207" size="9" family="Times" color="#000000"/>
+	<fontspec id="208" size="9" family="Times" color="#000000"/>
+	<fontspec id="209" size="9" family="Times" color="#000000"/>
+	<fontspec id="210" size="9" family="Times" color="#000000"/>
+	<fontspec id="211" size="9" family="Times" color="#000000"/>
+	<fontspec id="212" size="9" family="Times" color="#000000"/>
+	<fontspec id="213" size="9" family="Times" color="#000000"/>
+	<fontspec id="214" size="9" family="Times" color="#000000"/>
+	<fontspec id="215" size="9" family="Times" color="#000000"/>
+	<fontspec id="216" size="9" family="Times" color="#000000"/>
+	<fontspec id="217" size="9" family="Times" color="#000000"/>
+	<fontspec id="218" size="9" family="Times" color="#000000"/>
+	<fontspec id="219" size="9" family="Times" color="#000000"/>
+	<fontspec id="220" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="221" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="222" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="223" size="9" family="Times" color="#000000"/>
+	<fontspec id="224" size="9" family="Times" color="#000000"/>
+	<fontspec id="225" size="9" family="Times" color="#000000"/>
+	<fontspec id="226" size="9" family="Times" color="#000000"/>
+	<fontspec id="227" size="9" family="Times" color="#000000"/>
+	<fontspec id="228" size="9" family="Times" color="#000000"/>
+	<fontspec id="229" size="9" family="Times" color="#000000"/>
+	<fontspec id="230" size="9" family="Times" color="#000000"/>
+	<fontspec id="231" size="9" family="Times" color="#000000"/>
+	<fontspec id="232" size="9" family="Times" color="#000000"/>
+	<fontspec id="233" size="9" family="Times" color="#000000"/>
+	<fontspec id="234" size="9" family="Times" color="#000000"/>
+	<fontspec id="235" size="9" family="Times" color="#000000"/>
+	<fontspec id="236" size="9" family="Times" color="#000000"/>
+	<fontspec id="237" size="9" family="Times" color="#000000"/>
+	<fontspec id="238" size="9" family="Times" color="#000000"/>
+	<fontspec id="239" size="9" family="Times" color="#000000"/>
+	<fontspec id="240" size="9" family="Times" color="#000000"/>
+	<fontspec id="241" size="9" family="Times" color="#000000"/>
+	<fontspec id="242" size="9" family="Times" color="#000000"/>
+	<fontspec id="243" size="9" family="Times" color="#000000"/>
+	<fontspec id="244" size="9" family="Times" color="#000000"/>
+	<fontspec id="245" size="9" family="Times" color="#000000"/>
+	<fontspec id="246" size="9" family="Times" color="#000000"/>
+	<fontspec id="247" size="9" family="Times" color="#000000"/>
+	<fontspec id="248" size="9" family="Times" color="#000000"/>
+	<fontspec id="249" size="9" family="Times" color="#000000"/>
+	<fontspec id="250" size="9" family="Times" color="#000000"/>
+	<fontspec id="251" size="9" family="Times" color="#000000"/>
+	<fontspec id="252" size="9" family="Times" color="#000000"/>
+	<fontspec id="253" size="9" family="Times" color="#000000"/>
+	<fontspec id="254" size="9" family="Times" color="#000000"/>
+	<fontspec id="255" size="9" family="Times" color="#000000"/>
+	<fontspec id="256" size="9" family="Times" color="#000000"/>
+	<fontspec id="257" size="9" family="Times" color="#000000"/>
+	<fontspec id="258" size="9" family="Times" color="#000000"/>
+	<fontspec id="259" size="9" family="Times" color="#000000"/>
+	<fontspec id="260" size="9" family="Times" color="#000000"/>
+	<fontspec id="261" size="9" family="Times" color="#000000"/>
+	<fontspec id="262" size="9" family="Times" color="#000000"/>
+	<fontspec id="263" size="9" family="Times" color="#000000"/>
+	<fontspec id="264" size="9" family="Times" color="#000000"/>
+	<fontspec id="265" size="9" family="Times" color="#000000"/>
+	<fontspec id="266" size="9" family="Times" color="#000000"/>
+	<fontspec id="267" size="9" family="Times" color="#000000"/>
+	<fontspec id="268" size="9" family="Times" color="#000000"/>
+	<fontspec id="269" size="9" family="Times" color="#000000"/>
+	<fontspec id="270" size="9" family="Times" color="#000000"/>
+	<fontspec id="271" size="9" family="Times" color="#000000"/>
+	<fontspec id="272" size="9" family="Times" color="#000000"/>
+	<fontspec id="273" size="9" family="Times" color="#000000"/>
+	<fontspec id="274" size="9" family="Times" color="#000000"/>
+	<fontspec id="275" size="9" family="Times" color="#000000"/>
+	<fontspec id="276" size="9" family="Times" color="#000000"/>
+	<fontspec id="277" size="9" family="Times" color="#000000"/>
+	<fontspec id="278" size="9" family="Times" color="#000000"/>
+	<fontspec id="279" size="9" family="Times" color="#000000"/>
+	<fontspec id="280" size="9" family="Times" color="#000000"/>
+	<fontspec id="281" size="9" family="Times" color="#000000"/>
+	<fontspec id="282" size="9" family="Times" color="#000000"/>
+	<fontspec id="283" size="9" family="Times" color="#000000"/>
+	<fontspec id="284" size="9" family="Times" color="#000000"/>
+	<fontspec id="285" size="9" family="Times" color="#000000"/>
+	<fontspec id="286" size="9" family="Times" color="#000000"/>
+	<fontspec id="287" size="9" family="Times" color="#000000"/>
+	<fontspec id="288" size="9" family="Times" color="#000000"/>
+	<fontspec id="289" size="9" family="Times" color="#000000"/>
+	<fontspec id="290" size="9" family="Times" color="#000000"/>
+	<fontspec id="291" size="9" family="Times" color="#000000"/>
+	<fontspec id="292" size="9" family="Times" color="#000000"/>
+	<fontspec id="293" size="9" family="Times" color="#000000"/>
+	<fontspec id="294" size="9" family="Times" color="#000000"/>
+	<fontspec id="295" size="9" family="Times" color="#000000"/>
+	<fontspec id="296" size="9" family="Times" color="#000000"/>
+	<fontspec id="297" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="298" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="299" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="300" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="301" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="302" size="9" family="Times" color="#000000"/>
+	<fontspec id="303" size="9" family="Times" color="#000000"/>
+	<fontspec id="304" size="9" family="Times" color="#000000"/>
+	<fontspec id="305" size="9" family="Times" color="#000000"/>
+	<fontspec id="306" size="9" family="Times" color="#000000"/>
+	<fontspec id="307" size="9" family="Times" color="#000000"/>
+	<fontspec id="308" size="9" family="Times" color="#000000"/>
+	<fontspec id="309" size="9" family="Times" color="#000000"/>
+	<fontspec id="310" size="9" family="Times" color="#000000"/>
+	<fontspec id="311" size="9" family="Times" color="#000000"/>
+	<fontspec id="312" size="9" family="Times" color="#000000"/>
+	<fontspec id="313" size="9" family="Times" color="#000000"/>
+	<fontspec id="314" size="9" family="Times" color="#000000"/>
+	<fontspec id="315" size="9" family="Times" color="#000000"/>
+	<fontspec id="316" size="9" family="Times" color="#000000"/>
+	<fontspec id="317" size="9" family="Times" color="#000000"/>
+	<fontspec id="318" size="9" family="Times" color="#000000"/>
+	<fontspec id="319" size="9" family="Times" color="#000000"/>
+	<fontspec id="320" size="9" family="Times" color="#000000"/>
+	<fontspec id="321" size="9" family="Times" color="#000000"/>
+	<fontspec id="322" size="9" family="Times" color="#000000"/>
+	<fontspec id="323" size="9" family="Times" color="#000000"/>
+	<fontspec id="324" size="9" family="Times" color="#000000"/>
+	<fontspec id="325" size="9" family="Times" color="#000000"/>
+	<fontspec id="326" size="9" family="Times" color="#000000"/>
+	<fontspec id="327" size="9" family="Times" color="#000000"/>
+	<fontspec id="328" size="9" family="Times" color="#000000"/>
+	<fontspec id="329" size="9" family="Times" color="#000000"/>
+	<fontspec id="330" size="9" family="Times" color="#000000"/>
+	<fontspec id="331" size="9" family="Times" color="#000000"/>
+	<fontspec id="332" size="9" family="Times" color="#000000"/>
+	<fontspec id="333" size="9" family="Times" color="#000000"/>
+	<fontspec id="334" size="9" family="Times" color="#000000"/>
+	<fontspec id="335" size="9" family="Times" color="#000000"/>
+	<fontspec id="336" size="9" family="Times" color="#000000"/>
+	<fontspec id="337" size="9" family="Times" color="#000000"/>
+	<fontspec id="338" size="9" family="Times" color="#000000"/>
+	<fontspec id="339" size="9" family="Times" color="#000000"/>
+	<fontspec id="340" size="9" family="Times" color="#000000"/>
+	<fontspec id="341" size="9" family="Times" color="#000000"/>
+	<fontspec id="342" size="9" family="Times" color="#000000"/>
+	<fontspec id="343" size="9" family="Times" color="#000000"/>
+	<fontspec id="344" size="9" family="Times" color="#000000"/>
+	<fontspec id="345" size="9" family="Times" color="#000000"/>
+	<fontspec id="346" size="9" family="Times" color="#000000"/>
+	<fontspec id="347" size="9" family="Times" color="#000000"/>
+	<fontspec id="348" size="9" family="Times" color="#000000"/>
+	<fontspec id="349" size="9" family="Times" color="#000000"/>
+	<fontspec id="350" size="9" family="Times" color="#000000"/>
+	<fontspec id="351" size="9" family="Times" color="#000000"/>
+	<fontspec id="352" size="9" family="Times" color="#000000"/>
+	<fontspec id="353" size="9" family="Times" color="#000000"/>
+	<fontspec id="354" size="9" family="Times" color="#000000"/>
+	<fontspec id="355" size="9" family="Times" color="#000000"/>
+	<fontspec id="356" size="9" family="Times" color="#000000"/>
+	<fontspec id="357" size="9" family="Times" color="#000000"/>
+	<fontspec id="358" size="9" family="Times" color="#000000"/>
+	<fontspec id="359" size="9" family="Times" color="#000000"/>
+	<fontspec id="360" size="9" family="Times" color="#000000"/>
+	<fontspec id="361" size="9" family="Times" color="#000000"/>
+	<fontspec id="362" size="9" family="Times" color="#000000"/>
+	<fontspec id="363" size="9" family="Times" color="#000000"/>
+	<fontspec id="364" size="9" family="Times" color="#000000"/>
+	<fontspec id="365" size="9" family="Times" color="#000000"/>
+	<fontspec id="366" size="9" family="Times" color="#000000"/>
+	<fontspec id="367" size="9" family="Times" color="#000000"/>
+	<fontspec id="368" size="9" family="Times" color="#000000"/>
+	<fontspec id="369" size="9" family="Times" color="#000000"/>
+	<fontspec id="370" size="9" family="Times" color="#000000"/>
+	<fontspec id="371" size="9" family="Times" color="#000000"/>
+	<fontspec id="372" size="9" family="Times" color="#000000"/>
+	<fontspec id="373" size="9" family="Times" color="#000000"/>
+	<fontspec id="374" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="375" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="376" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="377" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="378" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="379" size="9" family="Times" color="#000000"/>
+	<fontspec id="380" size="9" family="Times" color="#000000"/>
+	<fontspec id="381" size="9" family="Times" color="#000000"/>
+	<fontspec id="382" size="9" family="Times" color="#000000"/>
+	<fontspec id="383" size="9" family="Times" color="#000000"/>
+	<fontspec id="384" size="9" family="Times" color="#000000"/>
+	<fontspec id="385" size="9" family="Times" color="#000000"/>
+	<fontspec id="386" size="9" family="Times" color="#000000"/>
+	<fontspec id="387" size="9" family="Times" color="#000000"/>
+	<fontspec id="388" size="9" family="Times" color="#000000"/>
+	<fontspec id="389" size="9" family="Times" color="#000000"/>
+	<fontspec id="390" size="9" family="Times" color="#000000"/>
+	<fontspec id="391" size="9" family="Times" color="#000000"/>
+	<fontspec id="392" size="9" family="Times" color="#000000"/>
+	<fontspec id="393" size="9" family="Times" color="#000000"/>
+	<fontspec id="394" size="9" family="Times" color="#000000"/>
+	<fontspec id="395" size="9" family="Times" color="#000000"/>
+	<fontspec id="396" size="9" family="Times" color="#000000"/>
+	<fontspec id="397" size="9" family="Times" color="#000000"/>
+	<fontspec id="398" size="9" family="Times" color="#000000"/>
+	<fontspec id="399" size="9" family="Times" color="#000000"/>
+	<fontspec id="400" size="9" family="Times" color="#000000"/>
+	<fontspec id="401" size="9" family="Times" color="#000000"/>
+	<fontspec id="402" size="9" family="Times" color="#000000"/>
+	<fontspec id="403" size="9" family="Times" color="#000000"/>
+	<fontspec id="404" size="9" family="Times" color="#000000"/>
+	<fontspec id="405" size="9" family="Times" color="#000000"/>
+	<fontspec id="406" size="9" family="Times" color="#000000"/>
+	<fontspec id="407" size="9" family="Times" color="#000000"/>
+	<fontspec id="408" size="9" family="Times" color="#000000"/>
+	<fontspec id="409" size="9" family="Times" color="#000000"/>
+	<fontspec id="410" size="9" family="Times" color="#000000"/>
+	<fontspec id="411" size="9" family="Times" color="#000000"/>
+	<fontspec id="412" size="9" family="Times" color="#000000"/>
+	<fontspec id="413" size="9" family="Times" color="#000000"/>
+	<fontspec id="414" size="9" family="Times" color="#000000"/>
+	<fontspec id="415" size="9" family="Times" color="#000000"/>
+	<fontspec id="416" size="9" family="Times" color="#000000"/>
+	<fontspec id="417" size="9" family="Times" color="#000000"/>
+	<fontspec id="418" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="419" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="420" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="421" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="422" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="423" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="424" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="425" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="426" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="427" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="428" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="429" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="430" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="431" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="432" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="433" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="434" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="435" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="436" size="9" family="Helvetica" color="#000000"/>
+<text top="13" left="33" width="301" height="19" font="12">02 De La Guerra Commons (s)</text>
+<text top="10" left="1272" width="171" height="25" font="13">Weekly Menu</text>
+<text top="67" left="30" width="74" height="25" font="2">Lunch</text>
+<text top="134" left="115" width="63" height="14" font="14">March 30</text>
+<text top="114" left="119" width="57" height="14" font="4">Monday</text>
+<text top="134" left="317" width="63" height="14" font="15">March 31</text>
+<text top="117" left="317" width="61" height="14" font="4">Tuesday</text>
+<text top="135" left="522" width="51" height="14" font="16">April 01</text>
+<text top="117" left="506" width="84" height="14" font="4">Wednesday</text>
+<text top="135" left="723" width="51" height="14" font="16">April 02</text>
+<text top="118" left="715" width="68" height="14" font="4">Thursday</text>
+<text top="137" left="923" width="51" height="14" font="17">April 03</text>
+<text top="116" left="926" width="45" height="14" font="4">Friday</text>
+<text top="137" left="1125" width="51" height="14" font="18">April 04</text>
+<text top="116" left="1118" width="64" height="14" font="4">Saturday</text>
+<text top="137" left="1328" width="51" height="14" font="19">April 05</text>
+<text top="116" left="1326" width="54" height="14" font="4">Sunday</text>
+<text top="173" left="665" width="152" height="14" font="26">10 - Blue Plate Special</text>
+<text top="192" left="51" width="82" height="14" font="29">Vgt Split Pea Soup</text>
+<text top="210" left="51" width="96" height="14" font="31">Pulled Pork Sandwich</text>
+<text top="228" left="51" width="97" height="14" font="33">Fresh Broccoli Spears</text>
+<text top="246" left="51" width="102" height="14" font="37">Fresh Steamed Carrots</text>
+<text top="264" left="51" width="59" height="14" font="38">Baked Potato</text>
+<text top="192" left="250" width="78" height="14" font="40">Turkey Rice Soup</text>
+<text top="210" left="250" width="46" height="14" font="44">Italian Sub</text>
+<text top="228" left="250" width="134" height="14" font="48">Vegan Fresh Sauteed Spinach</text>
+<text top="246" left="250" width="59" height="14" font="49">Baked Potato</text>
+<text top="192" left="851" width="30" height="14" font="6">Pozole</text>
+<text top="210" left="851" width="109" height="14" font="52">Spicy Meatball Sandwich</text>
+<text top="228" left="851" width="127" height="14" font="56">Vgn Fresh Vegetable Medley</text>
+<text top="246" left="851" width="59" height="14" font="57">Baked Potato</text>
+<text top="192" left="651" width="95" height="14" font="59">Chicken Noodle Soup</text>
+<text top="210" left="651" width="79" height="14" font="61">Turkey Club Wrap</text>
+<text top="228" left="651" width="79" height="14" font="63">Steamed Zucchini</text>
+<text top="246" left="651" width="59" height="14" font="64">Baked Potato</text>
+<text top="192" left="449" width="81" height="14" font="73">Vgt Corn Chowder</text>
+<text top="210" left="449" width="80" height="14" font="74">Reuben Sandwich</text>
+<text top="228" left="449" width="76" height="14" font="76">Fresh Cauliflower</text>
+<text top="246" left="449" width="59" height="14" font="77">Baked Potato</text>
+<text top="301" left="655" width="172" height="14" font="86">11 - Taqueria (East Side)</text>
+<text top="319" left="51" width="133" height="14" font="91">Chicken And Bean Wet Burrito</text>
+<text top="337" left="51" width="64" height="14" font="93">Vgt Quesadilla</text>
+<text top="355" left="51" width="89" height="14" font="95">Vegan Spanish Rice</text>
+<text top="373" left="51" width="62" height="14" font="98">Refried Beans</text>
+<text top="391" left="51" width="54" height="14" font="99">Flour Tortilla</text>
+<text top="409" left="51" width="120" height="14" font="104">Fire Roasted Tomato Salsa</text>
+<text top="319" left="250" width="93" height="14" font="106">Chili Colorado Burrito</text>
+<text top="337" left="250" width="146" height="14" font="111">Vgt Tostada W/ Homemade Shell</text>
+<text top="355" left="250" width="83" height="14" font="113">Vegan Yellow Rice</text>
+<text top="373" left="250" width="84" height="14" font="116">Vegan Pinto Beans</text>
+<text top="391" left="250" width="54" height="14" font="117">Flour Tortilla</text>
+<text top="409" left="250" width="120" height="14" font="121">Vegan Fresh Tomato Salsa</text>
+<text top="319" left="851" width="91" height="14" font="123">Grilled Chicken Taco</text>
+<text top="337" left="851" width="76" height="14" font="125">Vgt Chile Relleno</text>
+<text top="355" left="851" width="151" height="14" font="131">Vegan Rice W/cilantro And Onions</text>
+<text top="373" left="851" width="86" height="14" font="133">Vegan Black Beans</text>
+<text top="391" left="851" width="54" height="14" font="99">Flour Tortilla</text>
+<text top="409" left="851" width="120" height="14" font="138">Fire Roasted Tomato Salsa</text>
+<text top="319" left="651" width="90" height="14" font="140">Chicken Fried Tacos</text>
+<text top="337" left="651" width="81" height="14" font="148">Vgt Potato Gordas</text>
+<text top="355" left="651" width="89" height="14" font="150">Vegan Spanish Rice</text>
+<text top="373" left="651" width="84" height="14" font="153">Vegan Pinto Beans</text>
+<text top="391" left="651" width="54" height="14" font="154">Flour Tortilla</text>
+<text top="409" left="651" width="120" height="14" font="158">Vegan Fresh Tomato Salsa</text>
+<text top="319" left="449" width="74" height="14" font="160">Chicken Tostada</text>
+<text top="337" left="449" width="127" height="14" font="163">Vegan Vegetable Enchiladas</text>
+<text top="355" left="449" width="81" height="14" font="165">Vegan Green Rice</text>
+<text top="373" left="449" width="120" height="14" font="170">Vegan Refried Black Beans</text>
+<text top="391" left="449" width="58" height="14" font="171">Corn Tortillas</text>
+<text top="409" left="449" width="120" height="14" font="176">Fire Roasted Tomato Salsa</text>
+<text top="446" left="705" width="71" height="14" font="178">12 - Pizza</text>
+<text top="465" left="51" width="72" height="14" font="179">Pepperoni Pizza</text>
+<text top="483" left="51" width="78" height="14" font="181">Vgt Cheese Pizza</text>
+<text top="501" left="51" width="53" height="14" font="185">Pizza Sticks</text>
+<text top="465" left="250" width="83" height="14" font="187">Bbq Chicken Pizza</text>
+<text top="483" left="250" width="159" height="14" font="192">Vegan Vegetable Pizza (no Cheese)</text>
+<text top="501" left="250" width="53" height="14" font="196">Pizza Sticks</text>
+<text top="465" left="851" width="94" height="14" font="199">Ham &amp; Cheese Pizza</text>
+<text top="483" left="851" width="78" height="14" font="201">Vgt Cheese Pizza</text>
+<text top="501" left="851" width="53" height="14" font="205">Pizza Sticks</text>
+<text top="465" left="651" width="66" height="14" font="206">Sausage Pizza</text>
+<text top="483" left="651" width="141" height="14" font="211">Vgt Vegetable &amp; Jalapeno Pizza</text>
+<text top="501" left="651" width="53" height="14" font="185">Pizza Sticks</text>
+<text top="465" left="449" width="115" height="14" font="216">Bacon Tomato Basil Pizza</text>
+<text top="483" left="449" width="78" height="14" font="218">Vgt Cheese Pizza</text>
+<text top="501" left="449" width="53" height="14" font="219">Pizza Sticks</text>
+<text top="537" left="696" width="90" height="14" font="222">13 - To Order</text>
+<text top="556" left="51" width="118" height="14" font="225">Marinara Sauce W/chicken</text>
+<text top="574" left="51" width="56" height="14" font="227">Penne Pasta</text>
+<text top="592" left="51" width="183" height="14" font="232">Vegan Garden Vegetable Marinara Sauce</text>
+<text top="610" left="51" width="55" height="14" font="235">Rotelli Pasta</text>
+<text top="628" left="51" width="90" height="14" font="239">Steamed White Rice</text>
+<text top="556" left="250" width="87" height="14" font="241">Chicken Chop Suey</text>
+<text top="574" left="250" width="80" height="14" font="244">Vgt Egg Foo Yong</text>
+<text top="592" left="250" width="90" height="14" font="248">Steamed White Rice</text>
+<text top="556" left="851" width="120" height="14" font="261">Spicy Turkey Citrus Stir Fry</text>
+<text top="574" left="851" width="175" height="14" font="269">Vegan Sweet &amp; Sour Tofu &amp; Vegetables</text>
+<text top="592" left="851" width="90" height="14" font="248">Steamed White Rice</text>
+<text top="556" left="651" width="121" height="14" font="275">Marinara Sauce W/sausage</text>
+<text top="574" left="651" width="62" height="14" font="276">Bowties Pasta</text>
+<text top="592" left="651" width="90" height="14" font="279">Vgt Pasta Primavera</text>
+<text top="610" left="651" width="50" height="14" font="283">Brown Rice</text>
+<text top="556" left="449" width="53" height="14" font="284">Meat Sauce</text>
+<text top="574" left="449" width="69" height="14" font="288">Spaghetti Pasta</text>
+<text top="592" left="449" width="65" height="14" font="289">Cheese Sauce</text>
+<text top="610" left="449" width="55" height="14" font="292">Rotelli Pasta</text>
+<text top="628" left="449" width="90" height="14" font="296">Steamed White Rice</text>
+<text top="664" left="689" width="103" height="14" font="301">14 - Grill (Cafe)</text>
+<text top="683" left="51" width="93" height="14" font="302">Vegan Gardenburger</text>
+<text top="701" left="51" width="62" height="14" font="6">Cheeseburger</text>
+<text top="719" left="51" width="74" height="14" font="304">Turkey Hot Dogs</text>
+<text top="737" left="51" width="50" height="14" font="310">Steak Fries</text>
+<text top="683" left="250" width="50" height="14" font="318">Charburger</text>
+<text top="701" left="250" width="113" height="14" font="321">Vegan Black Bean Burger</text>
+<text top="719" left="250" width="62" height="14" font="322">Turkey Burger</text>
+<text top="737" left="250" width="105" height="14" font="326">Shoestring French Fries</text>
+<text top="683" left="851" width="50" height="14" font="333">Charburger</text>
+<text top="701" left="851" width="113" height="14" font="336">Vegan Black Bean Burger</text>
+<text top="719" left="851" width="150" height="14" font="340">Grilled Tuna &amp; Cheese Sourdough</text>
+<text top="737" left="851" width="54" height="14" font="345">Onion Rings</text>
+<text top="683" left="651" width="50" height="14" font="352">Charburger</text>
+<text top="701" left="651" width="93" height="14" font="353">Vegan Gardenburger</text>
+<text top="719" left="651" width="147" height="14" font="358">Grilled Tuna &amp; Cheese On Wheat</text>
+<text top="737" left="651" width="106" height="14" font="361">Krinkle Cut French Fries</text>
+<text top="683" left="449" width="50" height="14" font="318">Charburger</text>
+<text top="701" left="449" width="93" height="14" font="362">Vegan Gardenburger</text>
+<text top="719" left="449" width="107" height="14" font="367">English Muffin Sandwich</text>
+<text top="737" left="449" width="45" height="14" font="373">Tater Tots</text>
+<text top="774" left="646" width="189" height="14" font="378">15 - Salads/Deli (West Side)</text>
+<text top="793" left="51" width="60" height="14" font="379">Caesar Salad</text>
+<text top="811" left="51" width="76" height="14" font="388">Colorful Coleslaw</text>
+<text top="793" left="250" width="102" height="14" font="390">Chinese Broccoli Salad</text>
+<text top="811" left="250" width="88" height="14" font="395">Yogurt Potato Salad</text>
+<text top="793" left="851" width="60" height="14" font="396">Caesar Salad</text>
+<text top="811" left="851" width="92" height="14" font="400">Italian Spinach Salad</text>
+<text top="793" left="651" width="98" height="14" font="402">Chicken Caesar Salad</text>
+<text top="811" left="651" width="45" height="14" font="406">Egg Salad</text>
+<text top="793" left="449" width="68" height="14" font="414">Macaroni Salad</text>
+<text top="811" left="449" width="126" height="14" font="417">Vegan Thai Cucumber Salad</text>
+<text top="882" left="1381" width="68" height="11" font="420">Page 4 of 17</text>
+<text top="882" left="32" width="189" height="11" font="425">Tuesday, March 17, 2009 16:59:06</text>
+<text top="882" left="354" width="138" height="11" font="429">Univ of CA Santa Barbara</text>
+<text top="882" left="680" width="130" height="11" font="432">The CBORD Group, Inc.</text>
+<text top="858" left="27" width="167" height="11" font="436">Courses selected: Selected All</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="918" width="1512">
+	<fontspec id="437" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="438" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="439" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="440" size="9" family="Times" color="#000000"/>
+	<fontspec id="441" size="9" family="Times" color="#000000"/>
+	<fontspec id="442" size="9" family="Times" color="#000000"/>
+	<fontspec id="443" size="9" family="Times" color="#000000"/>
+	<fontspec id="444" size="9" family="Times" color="#000000"/>
+	<fontspec id="445" size="9" family="Times" color="#000000"/>
+	<fontspec id="446" size="9" family="Times" color="#000000"/>
+	<fontspec id="447" size="9" family="Times" color="#000000"/>
+	<fontspec id="448" size="9" family="Times" color="#000000"/>
+	<fontspec id="449" size="9" family="Times" color="#000000"/>
+	<fontspec id="450" size="9" family="Times" color="#000000"/>
+	<fontspec id="451" size="9" family="Times" color="#000000"/>
+	<fontspec id="452" size="9" family="Times" color="#000000"/>
+	<fontspec id="453" size="9" family="Times" color="#000000"/>
+	<fontspec id="454" size="9" family="Times" color="#000000"/>
+	<fontspec id="455" size="9" family="Times" color="#000000"/>
+	<fontspec id="456" size="9" family="Times" color="#000000"/>
+	<fontspec id="457" size="9" family="Times" color="#000000"/>
+	<fontspec id="458" size="9" family="Times" color="#000000"/>
+	<fontspec id="459" size="9" family="Times" color="#000000"/>
+	<fontspec id="460" size="9" family="Times" color="#000000"/>
+	<fontspec id="461" size="9" family="Times" color="#000000"/>
+	<fontspec id="462" size="9" family="Times" color="#000000"/>
+	<fontspec id="463" size="9" family="Times" color="#000000"/>
+	<fontspec id="464" size="9" family="Times" color="#000000"/>
+	<fontspec id="465" size="9" family="Times" color="#000000"/>
+	<fontspec id="466" size="9" family="Times" color="#000000"/>
+	<fontspec id="467" size="9" family="Times" color="#000000"/>
+	<fontspec id="468" size="9" family="Times" color="#000000"/>
+	<fontspec id="469" size="9" family="Times" color="#000000"/>
+	<fontspec id="470" size="9" family="Times" color="#000000"/>
+	<fontspec id="471" size="9" family="Times" color="#000000"/>
+	<fontspec id="472" size="9" family="Times" color="#000000"/>
+	<fontspec id="473" size="9" family="Times" color="#000000"/>
+	<fontspec id="474" size="9" family="Times" color="#000000"/>
+	<fontspec id="475" size="9" family="Times" color="#000000"/>
+	<fontspec id="476" size="9" family="Times" color="#000000"/>
+	<fontspec id="477" size="9" family="Times" color="#000000"/>
+	<fontspec id="478" size="9" family="Times" color="#000000"/>
+	<fontspec id="479" size="9" family="Times" color="#000000"/>
+	<fontspec id="480" size="9" family="Times" color="#000000"/>
+	<fontspec id="481" size="9" family="Times" color="#000000"/>
+	<fontspec id="482" size="9" family="Times" color="#000000"/>
+	<fontspec id="483" size="9" family="Times" color="#000000"/>
+	<fontspec id="484" size="9" family="Times" color="#000000"/>
+	<fontspec id="485" size="9" family="Times" color="#000000"/>
+	<fontspec id="486" size="9" family="Times" color="#000000"/>
+	<fontspec id="487" size="9" family="Times" color="#000000"/>
+	<fontspec id="488" size="9" family="Times" color="#000000"/>
+	<fontspec id="489" size="9" family="Times" color="#000000"/>
+	<fontspec id="490" size="9" family="Times" color="#000000"/>
+	<fontspec id="491" size="9" family="Times" color="#000000"/>
+	<fontspec id="492" size="9" family="Times" color="#000000"/>
+	<fontspec id="493" size="9" family="Times" color="#000000"/>
+	<fontspec id="494" size="9" family="Times" color="#000000"/>
+	<fontspec id="495" size="9" family="Times" color="#000000"/>
+	<fontspec id="496" size="9" family="Times" color="#000000"/>
+	<fontspec id="497" size="9" family="Times" color="#000000"/>
+	<fontspec id="498" size="9" family="Times" color="#000000"/>
+	<fontspec id="499" size="9" family="Times" color="#000000"/>
+	<fontspec id="500" size="9" family="Times" color="#000000"/>
+	<fontspec id="501" size="9" family="Times" color="#000000"/>
+	<fontspec id="502" size="9" family="Times" color="#000000"/>
+	<fontspec id="503" size="9" family="Times" color="#000000"/>
+	<fontspec id="504" size="9" family="Times" color="#000000"/>
+	<fontspec id="505" size="9" family="Times" color="#000000"/>
+	<fontspec id="506" size="9" family="Times" color="#000000"/>
+	<fontspec id="507" size="9" family="Times" color="#000000"/>
+	<fontspec id="508" size="9" family="Times" color="#000000"/>
+	<fontspec id="509" size="9" family="Times" color="#000000"/>
+	<fontspec id="510" size="9" family="Times" color="#000000"/>
+<text top="13" left="33" width="301" height="19" font="12">02 De La Guerra Commons (s)</text>
+<text top="10" left="1272" width="171" height="25" font="13">Weekly Menu</text>
+<text top="67" left="30" width="74" height="25" font="2">Lunch</text>
+<text top="134" left="115" width="63" height="14" font="14">March 30</text>
+<text top="114" left="119" width="57" height="14" font="4">Monday</text>
+<text top="134" left="317" width="63" height="14" font="15">March 31</text>
+<text top="117" left="317" width="61" height="14" font="4">Tuesday</text>
+<text top="135" left="522" width="51" height="14" font="16">April 01</text>
+<text top="117" left="506" width="84" height="14" font="4">Wednesday</text>
+<text top="135" left="723" width="51" height="14" font="16">April 02</text>
+<text top="118" left="715" width="68" height="14" font="4">Thursday</text>
+<text top="137" left="923" width="51" height="14" font="17">April 03</text>
+<text top="116" left="926" width="45" height="14" font="4">Friday</text>
+<text top="137" left="1125" width="51" height="14" font="18">April 04</text>
+<text top="116" left="1118" width="64" height="14" font="4">Saturday</text>
+<text top="137" left="1328" width="51" height="14" font="19">April 05</text>
+<text top="116" left="1326" width="54" height="14" font="4">Sunday</text>
+<text top="173" left="702" width="77" height="14" font="439">16 - Bakery</text>
+<text top="192" left="51" width="88" height="14" font="441">Garlic French Bread</text>
+<text top="210" left="51" width="83" height="14" font="443">Cheese Cake Bars</text>
+<text top="228" left="51" width="40" height="14" font="448">Brownies</text>
+<text top="192" left="250" width="58" height="14" font="453">Herb Biscuits</text>
+<text top="210" left="250" width="58" height="14" font="454">Granola Bars</text>
+<text top="228" left="250" width="61" height="14" font="459">M&amp;m Cookies</text>
+<text top="192" left="851" width="103" height="14" font="462">Sundried Tomato Rolls</text>
+<text top="210" left="851" width="78" height="14" font="470">Butterscotch Bars</text>
+<text top="228" left="851" width="159" height="14" font="486">Confetti Cake W/ Butter Cream Icing</text>
+<text top="192" left="651" width="91" height="14" font="489">Crusty French Bread</text>
+<text top="210" left="651" width="63" height="14" font="490">Ginger Cookie</text>
+<text top="228" left="651" width="98" height="14" font="492">Cheese Cake Cookies</text>
+<text top="192" left="449" width="53" height="14" font="496">Potato Rolls</text>
+<text top="210" left="449" width="70" height="14" font="503">Toll House Bars</text>
+<text top="228" left="449" width="163" height="14" font="510">Carrot Cake W/ Cream Cheese Icing</text>
+<text top="882" left="1381" width="68" height="11" font="420">Page 5 of 17</text>
+<text top="882" left="32" width="189" height="11" font="425">Tuesday, March 17, 2009 16:59:06</text>
+<text top="882" left="354" width="138" height="11" font="429">Univ of CA Santa Barbara</text>
+<text top="882" left="680" width="130" height="11" font="432">The CBORD Group, Inc.</text>
+<text top="858" left="27" width="167" height="11" font="436">Courses selected: Selected All</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="918" width="1512">
+	<fontspec id="511" size="9" family="Times" color="#000000"/>
+	<fontspec id="512" size="9" family="Times" color="#000000"/>
+	<fontspec id="513" size="9" family="Times" color="#000000"/>
+	<fontspec id="514" size="9" family="Times" color="#000000"/>
+	<fontspec id="515" size="9" family="Times" color="#000000"/>
+	<fontspec id="516" size="9" family="Times" color="#000000"/>
+	<fontspec id="517" size="9" family="Times" color="#000000"/>
+	<fontspec id="518" size="9" family="Times" color="#000000"/>
+	<fontspec id="519" size="9" family="Times" color="#000000"/>
+	<fontspec id="520" size="9" family="Times" color="#000000"/>
+	<fontspec id="521" size="9" family="Times" color="#000000"/>
+	<fontspec id="522" size="9" family="Times" color="#000000"/>
+	<fontspec id="523" size="9" family="Times" color="#000000"/>
+	<fontspec id="524" size="9" family="Times" color="#000000"/>
+	<fontspec id="525" size="9" family="Times" color="#000000"/>
+	<fontspec id="526" size="9" family="Times" color="#000000"/>
+	<fontspec id="527" size="9" family="Times" color="#000000"/>
+	<fontspec id="528" size="9" family="Times" color="#000000"/>
+	<fontspec id="529" size="9" family="Times" color="#000000"/>
+	<fontspec id="530" size="9" family="Times" color="#000000"/>
+	<fontspec id="531" size="9" family="Times" color="#000000"/>
+	<fontspec id="532" size="9" family="Times" color="#000000"/>
+	<fontspec id="533" size="9" family="Times" color="#000000"/>
+	<fontspec id="534" size="9" family="Times" color="#000000"/>
+	<fontspec id="535" size="9" family="Times" color="#000000"/>
+	<fontspec id="536" size="9" family="Times" color="#000000"/>
+	<fontspec id="537" size="9" family="Times" color="#000000"/>
+	<fontspec id="538" size="9" family="Times" color="#000000"/>
+	<fontspec id="539" size="9" family="Times" color="#000000"/>
+	<fontspec id="540" size="9" family="Times" color="#000000"/>
+	<fontspec id="541" size="9" family="Times" color="#000000"/>
+	<fontspec id="542" size="9" family="Times" color="#000000"/>
+	<fontspec id="543" size="9" family="Times" color="#000000"/>
+	<fontspec id="544" size="9" family="Times" color="#000000"/>
+	<fontspec id="545" size="9" family="Times" color="#000000"/>
+	<fontspec id="546" size="9" family="Times" color="#000000"/>
+	<fontspec id="547" size="9" family="Times" color="#000000"/>
+	<fontspec id="548" size="9" family="Times" color="#000000"/>
+	<fontspec id="549" size="9" family="Times" color="#000000"/>
+	<fontspec id="550" size="9" family="Times" color="#000000"/>
+	<fontspec id="551" size="9" family="Times" color="#000000"/>
+	<fontspec id="552" size="9" family="Times" color="#000000"/>
+	<fontspec id="553" size="9" family="Times" color="#000000"/>
+	<fontspec id="554" size="9" family="Times" color="#000000"/>
+	<fontspec id="555" size="9" family="Times" color="#000000"/>
+	<fontspec id="556" size="9" family="Times" color="#000000"/>
+	<fontspec id="557" size="9" family="Times" color="#000000"/>
+	<fontspec id="558" size="9" family="Times" color="#000000"/>
+	<fontspec id="559" size="9" family="Times" color="#000000"/>
+	<fontspec id="560" size="9" family="Times" color="#000000"/>
+	<fontspec id="561" size="9" family="Times" color="#000000"/>
+	<fontspec id="562" size="9" family="Times" color="#000000"/>
+	<fontspec id="563" size="9" family="Times" color="#000000"/>
+	<fontspec id="564" size="9" family="Times" color="#000000"/>
+	<fontspec id="565" size="9" family="Times" color="#000000"/>
+	<fontspec id="566" size="9" family="Times" color="#000000"/>
+	<fontspec id="567" size="9" family="Times" color="#000000"/>
+	<fontspec id="568" size="9" family="Times" color="#000000"/>
+	<fontspec id="569" size="9" family="Times" color="#000000"/>
+	<fontspec id="570" size="9" family="Times" color="#000000"/>
+	<fontspec id="571" size="9" family="Times" color="#000000"/>
+	<fontspec id="572" size="9" family="Times" color="#000000"/>
+	<fontspec id="573" size="9" family="Times" color="#000000"/>
+	<fontspec id="574" size="9" family="Times" color="#000000"/>
+	<fontspec id="575" size="9" family="Times" color="#000000"/>
+	<fontspec id="576" size="9" family="Times" color="#000000"/>
+	<fontspec id="577" size="9" family="Times" color="#000000"/>
+	<fontspec id="578" size="9" family="Times" color="#000000"/>
+	<fontspec id="579" size="9" family="Times" color="#000000"/>
+	<fontspec id="580" size="9" family="Times" color="#000000"/>
+	<fontspec id="581" size="9" family="Times" color="#000000"/>
+	<fontspec id="582" size="9" family="Times" color="#000000"/>
+	<fontspec id="583" size="9" family="Times" color="#000000"/>
+	<fontspec id="584" size="9" family="Times" color="#000000"/>
+	<fontspec id="585" size="9" family="Times" color="#000000"/>
+	<fontspec id="586" size="9" family="Times" color="#000000"/>
+	<fontspec id="587" size="9" family="Times" color="#000000"/>
+	<fontspec id="588" size="9" family="Times" color="#000000"/>
+	<fontspec id="589" size="9" family="Times" color="#000000"/>
+	<fontspec id="590" size="9" family="Times" color="#000000"/>
+	<fontspec id="591" size="9" family="Times" color="#000000"/>
+	<fontspec id="592" size="9" family="Times" color="#000000"/>
+	<fontspec id="593" size="9" family="Times" color="#000000"/>
+	<fontspec id="594" size="9" family="Times" color="#000000"/>
+	<fontspec id="595" size="9" family="Times" color="#000000"/>
+	<fontspec id="596" size="9" family="Times" color="#000000"/>
+	<fontspec id="597" size="9" family="Times" color="#000000"/>
+	<fontspec id="598" size="9" family="Times" color="#000000"/>
+	<fontspec id="599" size="9" family="Times" color="#000000"/>
+	<fontspec id="600" size="9" family="Times" color="#000000"/>
+	<fontspec id="601" size="9" family="Times" color="#000000"/>
+	<fontspec id="602" size="9" family="Times" color="#000000"/>
+	<fontspec id="603" size="9" family="Times" color="#000000"/>
+	<fontspec id="604" size="9" family="Times" color="#000000"/>
+	<fontspec id="605" size="9" family="Times" color="#000000"/>
+	<fontspec id="606" size="9" family="Times" color="#000000"/>
+	<fontspec id="607" size="9" family="Times" color="#000000"/>
+	<fontspec id="608" size="9" family="Times" color="#000000"/>
+	<fontspec id="609" size="9" family="Times" color="#000000"/>
+	<fontspec id="610" size="9" family="Times" color="#000000"/>
+	<fontspec id="611" size="9" family="Times" color="#000000"/>
+	<fontspec id="612" size="9" family="Times" color="#000000"/>
+	<fontspec id="613" size="9" family="Times" color="#000000"/>
+	<fontspec id="614" size="9" family="Times" color="#000000"/>
+	<fontspec id="615" size="9" family="Times" color="#000000"/>
+	<fontspec id="616" size="9" family="Times" color="#000000"/>
+	<fontspec id="617" size="9" family="Times" color="#000000"/>
+	<fontspec id="618" size="9" family="Times" color="#000000"/>
+	<fontspec id="619" size="9" family="Times" color="#000000"/>
+	<fontspec id="620" size="9" family="Times" color="#000000"/>
+	<fontspec id="621" size="9" family="Times" color="#000000"/>
+	<fontspec id="622" size="9" family="Times" color="#000000"/>
+	<fontspec id="623" size="9" family="Times" color="#000000"/>
+	<fontspec id="624" size="9" family="Times" color="#000000"/>
+	<fontspec id="625" size="9" family="Times" color="#000000"/>
+	<fontspec id="626" size="9" family="Times" color="#000000"/>
+	<fontspec id="627" size="9" family="Times" color="#000000"/>
+	<fontspec id="628" size="9" family="Times" color="#000000"/>
+	<fontspec id="629" size="9" family="Times" color="#000000"/>
+	<fontspec id="630" size="9" family="Times" color="#000000"/>
+	<fontspec id="631" size="9" family="Times" color="#000000"/>
+	<fontspec id="632" size="9" family="Times" color="#000000"/>
+	<fontspec id="633" size="9" family="Times" color="#000000"/>
+	<fontspec id="634" size="9" family="Times" color="#000000"/>
+	<fontspec id="635" size="9" family="Times" color="#000000"/>
+	<fontspec id="636" size="9" family="Times" color="#000000"/>
+	<fontspec id="637" size="9" family="Times" color="#000000"/>
+	<fontspec id="638" size="9" family="Times" color="#000000"/>
+	<fontspec id="639" size="9" family="Times" color="#000000"/>
+	<fontspec id="640" size="9" family="Times" color="#000000"/>
+	<fontspec id="641" size="9" family="Times" color="#000000"/>
+	<fontspec id="642" size="9" family="Times" color="#000000"/>
+	<fontspec id="643" size="9" family="Times" color="#000000"/>
+	<fontspec id="644" size="9" family="Times" color="#000000"/>
+	<fontspec id="645" size="9" family="Times" color="#000000"/>
+	<fontspec id="646" size="9" family="Times" color="#000000"/>
+	<fontspec id="647" size="9" family="Times" color="#000000"/>
+	<fontspec id="648" size="9" family="Times" color="#000000"/>
+	<fontspec id="649" size="9" family="Times" color="#000000"/>
+	<fontspec id="650" size="9" family="Times" color="#000000"/>
+	<fontspec id="651" size="9" family="Times" color="#000000"/>
+	<fontspec id="652" size="9" family="Times" color="#000000"/>
+	<fontspec id="653" size="9" family="Times" color="#000000"/>
+	<fontspec id="654" size="9" family="Times" color="#000000"/>
+	<fontspec id="655" size="9" family="Times" color="#000000"/>
+	<fontspec id="656" size="9" family="Times" color="#000000"/>
+	<fontspec id="657" size="9" family="Times" color="#000000"/>
+	<fontspec id="658" size="9" family="Times" color="#000000"/>
+	<fontspec id="659" size="9" family="Times" color="#000000"/>
+	<fontspec id="660" size="9" family="Times" color="#000000"/>
+	<fontspec id="661" size="9" family="Times" color="#000000"/>
+	<fontspec id="662" size="9" family="Times" color="#000000"/>
+	<fontspec id="663" size="9" family="Times" color="#000000"/>
+	<fontspec id="664" size="9" family="Times" color="#000000"/>
+	<fontspec id="665" size="9" family="Times" color="#000000"/>
+	<fontspec id="666" size="9" family="Times" color="#000000"/>
+	<fontspec id="667" size="9" family="Times" color="#000000"/>
+	<fontspec id="668" size="9" family="Times" color="#000000"/>
+	<fontspec id="669" size="9" family="Times" color="#000000"/>
+	<fontspec id="670" size="9" family="Times" color="#000000"/>
+	<fontspec id="671" size="9" family="Times" color="#000000"/>
+	<fontspec id="672" size="9" family="Times" color="#000000"/>
+	<fontspec id="673" size="9" family="Times" color="#000000"/>
+	<fontspec id="674" size="9" family="Times" color="#000000"/>
+	<fontspec id="675" size="9" family="Times" color="#000000"/>
+	<fontspec id="676" size="9" family="Times" color="#000000"/>
+	<fontspec id="677" size="9" family="Times" color="#000000"/>
+	<fontspec id="678" size="9" family="Times" color="#000000"/>
+	<fontspec id="679" size="9" family="Times" color="#000000"/>
+	<fontspec id="680" size="9" family="Times" color="#000000"/>
+	<fontspec id="681" size="9" family="Times" color="#000000"/>
+	<fontspec id="682" size="9" family="Times" color="#000000"/>
+	<fontspec id="683" size="9" family="Times" color="#000000"/>
+	<fontspec id="684" size="9" family="Times" color="#000000"/>
+	<fontspec id="685" size="9" family="Times" color="#000000"/>
+	<fontspec id="686" size="9" family="Times" color="#000000"/>
+	<fontspec id="687" size="9" family="Times" color="#000000"/>
+	<fontspec id="688" size="9" family="Times" color="#000000"/>
+	<fontspec id="689" size="9" family="Times" color="#000000"/>
+	<fontspec id="690" size="9" family="Times" color="#000000"/>
+	<fontspec id="691" size="9" family="Times" color="#000000"/>
+	<fontspec id="692" size="9" family="Times" color="#000000"/>
+	<fontspec id="693" size="9" family="Times" color="#000000"/>
+	<fontspec id="694" size="9" family="Times" color="#000000"/>
+	<fontspec id="695" size="9" family="Times" color="#000000"/>
+	<fontspec id="696" size="9" family="Times" color="#000000"/>
+	<fontspec id="697" size="9" family="Times" color="#000000"/>
+	<fontspec id="698" size="9" family="Times" color="#000000"/>
+	<fontspec id="699" size="9" family="Times" color="#000000"/>
+	<fontspec id="700" size="9" family="Times" color="#000000"/>
+	<fontspec id="701" size="9" family="Times" color="#000000"/>
+	<fontspec id="702" size="9" family="Times" color="#000000"/>
+	<fontspec id="703" size="9" family="Times" color="#000000"/>
+	<fontspec id="704" size="9" family="Times" color="#000000"/>
+	<fontspec id="705" size="9" family="Times" color="#000000"/>
+	<fontspec id="706" size="9" family="Times" color="#000000"/>
+	<fontspec id="707" size="9" family="Times" color="#000000"/>
+	<fontspec id="708" size="9" family="Times" color="#000000"/>
+	<fontspec id="709" size="9" family="Times" color="#000000"/>
+	<fontspec id="710" size="9" family="Times" color="#000000"/>
+	<fontspec id="711" size="9" family="Times" color="#000000"/>
+	<fontspec id="712" size="9" family="Times" color="#000000"/>
+	<fontspec id="713" size="9" family="Times" color="#000000"/>
+	<fontspec id="714" size="9" family="Times" color="#000000"/>
+	<fontspec id="715" size="9" family="Times" color="#000000"/>
+	<fontspec id="716" size="9" family="Times" color="#000000"/>
+	<fontspec id="717" size="9" family="Times" color="#000000"/>
+	<fontspec id="718" size="9" family="Times" color="#000000"/>
+	<fontspec id="719" size="9" family="Times" color="#000000"/>
+	<fontspec id="720" size="9" family="Times" color="#000000"/>
+	<fontspec id="721" size="9" family="Times" color="#000000"/>
+	<fontspec id="722" size="9" family="Times" color="#000000"/>
+	<fontspec id="723" size="9" family="Times" color="#000000"/>
+	<fontspec id="724" size="9" family="Times" color="#000000"/>
+	<fontspec id="725" size="9" family="Times" color="#000000"/>
+	<fontspec id="726" size="9" family="Times" color="#000000"/>
+	<fontspec id="727" size="9" family="Times" color="#000000"/>
+	<fontspec id="728" size="9" family="Times" color="#000000"/>
+	<fontspec id="729" size="9" family="Times" color="#000000"/>
+	<fontspec id="730" size="9" family="Times" color="#000000"/>
+	<fontspec id="731" size="9" family="Times" color="#000000"/>
+	<fontspec id="732" size="9" family="Times" color="#000000"/>
+	<fontspec id="733" size="9" family="Times" color="#000000"/>
+	<fontspec id="734" size="9" family="Times" color="#000000"/>
+	<fontspec id="735" size="9" family="Times" color="#000000"/>
+	<fontspec id="736" size="9" family="Times" color="#000000"/>
+	<fontspec id="737" size="9" family="Times" color="#000000"/>
+	<fontspec id="738" size="9" family="Times" color="#000000"/>
+	<fontspec id="739" size="9" family="Times" color="#000000"/>
+	<fontspec id="740" size="9" family="Times" color="#000000"/>
+	<fontspec id="741" size="9" family="Times" color="#000000"/>
+	<fontspec id="742" size="9" family="Times" color="#000000"/>
+	<fontspec id="743" size="9" family="Times" color="#000000"/>
+	<fontspec id="744" size="9" family="Times" color="#000000"/>
+	<fontspec id="745" size="9" family="Times" color="#000000"/>
+	<fontspec id="746" size="9" family="Times" color="#000000"/>
+	<fontspec id="747" size="9" family="Times" color="#000000"/>
+	<fontspec id="748" size="9" family="Times" color="#000000"/>
+	<fontspec id="749" size="9" family="Times" color="#000000"/>
+	<fontspec id="750" size="9" family="Times" color="#000000"/>
+	<fontspec id="751" size="9" family="Times" color="#000000"/>
+	<fontspec id="752" size="9" family="Times" color="#000000"/>
+	<fontspec id="753" size="9" family="Times" color="#000000"/>
+	<fontspec id="754" size="9" family="Times" color="#000000"/>
+	<fontspec id="755" size="9" family="Times" color="#000000"/>
+	<fontspec id="756" size="9" family="Times" color="#000000"/>
+	<fontspec id="757" size="9" family="Times" color="#000000"/>
+	<fontspec id="758" size="9" family="Times" color="#000000"/>
+	<fontspec id="759" size="9" family="Times" color="#000000"/>
+	<fontspec id="760" size="9" family="Times" color="#000000"/>
+	<fontspec id="761" size="9" family="Times" color="#000000"/>
+	<fontspec id="762" size="9" family="Times" color="#000000"/>
+	<fontspec id="763" size="9" family="Times" color="#000000"/>
+	<fontspec id="764" size="9" family="Times" color="#000000"/>
+	<fontspec id="765" size="9" family="Times" color="#000000"/>
+	<fontspec id="766" size="9" family="Times" color="#000000"/>
+	<fontspec id="767" size="9" family="Times" color="#000000"/>
+	<fontspec id="768" size="9" family="Times" color="#000000"/>
+	<fontspec id="769" size="9" family="Times" color="#000000"/>
+	<fontspec id="770" size="9" family="Times" color="#000000"/>
+	<fontspec id="771" size="9" family="Times" color="#000000"/>
+	<fontspec id="772" size="9" family="Times" color="#000000"/>
+	<fontspec id="773" size="9" family="Times" color="#000000"/>
+	<fontspec id="774" size="9" family="Times" color="#000000"/>
+	<fontspec id="775" size="9" family="Times" color="#000000"/>
+	<fontspec id="776" size="9" family="Times" color="#000000"/>
+	<fontspec id="777" size="9" family="Times" color="#000000"/>
+	<fontspec id="778" size="9" family="Times" color="#000000"/>
+	<fontspec id="779" size="9" family="Times" color="#000000"/>
+	<fontspec id="780" size="9" family="Times" color="#000000"/>
+	<fontspec id="781" size="9" family="Times" color="#000000"/>
+	<fontspec id="782" size="9" family="Times" color="#000000"/>
+	<fontspec id="783" size="9" family="Times" color="#000000"/>
+	<fontspec id="784" size="9" family="Times" color="#000000"/>
+	<fontspec id="785" size="9" family="Times" color="#000000"/>
+	<fontspec id="786" size="9" family="Times" color="#000000"/>
+	<fontspec id="787" size="9" family="Times" color="#000000"/>
+	<fontspec id="788" size="9" family="Times" color="#000000"/>
+	<fontspec id="789" size="9" family="Times" color="#000000"/>
+	<fontspec id="790" size="9" family="Times" color="#000000"/>
+	<fontspec id="791" size="9" family="Times" color="#000000"/>
+	<fontspec id="792" size="9" family="Times" color="#000000"/>
+	<fontspec id="793" size="9" family="Times" color="#000000"/>
+	<fontspec id="794" size="9" family="Times" color="#000000"/>
+	<fontspec id="795" size="9" family="Times" color="#000000"/>
+	<fontspec id="796" size="9" family="Times" color="#000000"/>
+	<fontspec id="797" size="9" family="Times" color="#000000"/>
+	<fontspec id="798" size="9" family="Times" color="#000000"/>
+	<fontspec id="799" size="9" family="Times" color="#000000"/>
+	<fontspec id="800" size="9" family="Times" color="#000000"/>
+	<fontspec id="801" size="9" family="Times" color="#000000"/>
+	<fontspec id="802" size="9" family="Times" color="#000000"/>
+	<fontspec id="803" size="9" family="Times" color="#000000"/>
+	<fontspec id="804" size="9" family="Times" color="#000000"/>
+	<fontspec id="805" size="9" family="Times" color="#000000"/>
+	<fontspec id="806" size="9" family="Times" color="#000000"/>
+	<fontspec id="807" size="9" family="Times" color="#000000"/>
+	<fontspec id="808" size="9" family="Times" color="#000000"/>
+	<fontspec id="809" size="9" family="Times" color="#000000"/>
+	<fontspec id="810" size="9" family="Times" color="#000000"/>
+	<fontspec id="811" size="9" family="Times" color="#000000"/>
+	<fontspec id="812" size="9" family="Times" color="#000000"/>
+	<fontspec id="813" size="9" family="Times" color="#000000"/>
+	<fontspec id="814" size="9" family="Times" color="#000000"/>
+	<fontspec id="815" size="9" family="Times" color="#000000"/>
+	<fontspec id="816" size="9" family="Times" color="#000000"/>
+	<fontspec id="817" size="9" family="Times" color="#000000"/>
+	<fontspec id="818" size="9" family="Times" color="#000000"/>
+	<fontspec id="819" size="9" family="Times" color="#000000"/>
+	<fontspec id="820" size="9" family="Times" color="#000000"/>
+	<fontspec id="821" size="9" family="Times" color="#000000"/>
+	<fontspec id="822" size="9" family="Times" color="#000000"/>
+	<fontspec id="823" size="9" family="Times" color="#000000"/>
+	<fontspec id="824" size="9" family="Times" color="#000000"/>
+	<fontspec id="825" size="9" family="Times" color="#000000"/>
+	<fontspec id="826" size="9" family="Times" color="#000000"/>
+	<fontspec id="827" size="9" family="Times" color="#000000"/>
+	<fontspec id="828" size="9" family="Times" color="#000000"/>
+	<fontspec id="829" size="9" family="Times" color="#000000"/>
+	<fontspec id="830" size="9" family="Times" color="#000000"/>
+	<fontspec id="831" size="9" family="Times" color="#000000"/>
+	<fontspec id="832" size="9" family="Times" color="#000000"/>
+	<fontspec id="833" size="9" family="Times" color="#000000"/>
+	<fontspec id="834" size="9" family="Times" color="#000000"/>
+	<fontspec id="835" size="9" family="Times" color="#000000"/>
+	<fontspec id="836" size="9" family="Times" color="#000000"/>
+	<fontspec id="837" size="9" family="Times" color="#000000"/>
+	<fontspec id="838" size="9" family="Times" color="#000000"/>
+	<fontspec id="839" size="9" family="Times" color="#000000"/>
+	<fontspec id="840" size="9" family="Times" color="#000000"/>
+	<fontspec id="841" size="9" family="Times" color="#000000"/>
+	<fontspec id="842" size="9" family="Times" color="#000000"/>
+	<fontspec id="843" size="9" family="Times" color="#000000"/>
+	<fontspec id="844" size="9" family="Times" color="#000000"/>
+	<fontspec id="845" size="9" family="Times" color="#000000"/>
+	<fontspec id="846" size="9" family="Times" color="#000000"/>
+	<fontspec id="847" size="9" family="Times" color="#000000"/>
+	<fontspec id="848" size="9" family="Times" color="#000000"/>
+	<fontspec id="849" size="9" family="Times" color="#000000"/>
+	<fontspec id="850" size="9" family="Times" color="#000000"/>
+	<fontspec id="851" size="9" family="Times" color="#000000"/>
+	<fontspec id="852" size="9" family="Times" color="#000000"/>
+	<fontspec id="853" size="9" family="Times" color="#000000"/>
+	<fontspec id="854" size="9" family="Times" color="#000000"/>
+	<fontspec id="855" size="9" family="Times" color="#000000"/>
+	<fontspec id="856" size="9" family="Times" color="#000000"/>
+	<fontspec id="857" size="9" family="Times" color="#000000"/>
+	<fontspec id="858" size="9" family="Times" color="#000000"/>
+	<fontspec id="859" size="9" family="Times" color="#000000"/>
+	<fontspec id="860" size="9" family="Times" color="#000000"/>
+	<fontspec id="861" size="9" family="Times" color="#000000"/>
+	<fontspec id="862" size="9" family="Times" color="#000000"/>
+	<fontspec id="863" size="9" family="Times" color="#000000"/>
+	<fontspec id="864" size="9" family="Times" color="#000000"/>
+	<fontspec id="865" size="9" family="Times" color="#000000"/>
+	<fontspec id="866" size="9" family="Times" color="#000000"/>
+	<fontspec id="867" size="9" family="Times" color="#000000"/>
+	<fontspec id="868" size="9" family="Times" color="#000000"/>
+	<fontspec id="869" size="9" family="Times" color="#000000"/>
+	<fontspec id="870" size="9" family="Times" color="#000000"/>
+	<fontspec id="871" size="9" family="Times" color="#000000"/>
+	<fontspec id="872" size="9" family="Times" color="#000000"/>
+	<fontspec id="873" size="9" family="Times" color="#000000"/>
+	<fontspec id="874" size="9" family="Times" color="#000000"/>
+	<fontspec id="875" size="9" family="Times" color="#000000"/>
+	<fontspec id="876" size="9" family="Times" color="#000000"/>
+	<fontspec id="877" size="9" family="Times" color="#000000"/>
+	<fontspec id="878" size="9" family="Times" color="#000000"/>
+	<fontspec id="879" size="9" family="Times" color="#000000"/>
+	<fontspec id="880" size="9" family="Times" color="#000000"/>
+	<fontspec id="881" size="9" family="Times" color="#000000"/>
+	<fontspec id="882" size="9" family="Times" color="#000000"/>
+	<fontspec id="883" size="9" family="Times" color="#000000"/>
+	<fontspec id="884" size="9" family="Times" color="#000000"/>
+	<fontspec id="885" size="9" family="Times" color="#000000"/>
+	<fontspec id="886" size="9" family="Times" color="#000000"/>
+	<fontspec id="887" size="9" family="Times" color="#000000"/>
+	<fontspec id="888" size="9" family="Times" color="#000000"/>
+	<fontspec id="889" size="9" family="Times" color="#000000"/>
+	<fontspec id="890" size="9" family="Times" color="#000000"/>
+	<fontspec id="891" size="9" family="Times" color="#000000"/>
+	<fontspec id="892" size="9" family="Times" color="#000000"/>
+	<fontspec id="893" size="9" family="Times" color="#000000"/>
+	<fontspec id="894" size="9" family="Times" color="#000000"/>
+	<fontspec id="895" size="9" family="Times" color="#000000"/>
+	<fontspec id="896" size="9" family="Times" color="#000000"/>
+	<fontspec id="897" size="9" family="Times" color="#000000"/>
+	<fontspec id="898" size="9" family="Times" color="#000000"/>
+	<fontspec id="899" size="9" family="Times" color="#000000"/>
+	<fontspec id="900" size="9" family="Times" color="#000000"/>
+	<fontspec id="901" size="9" family="Times" color="#000000"/>
+	<fontspec id="902" size="9" family="Times" color="#000000"/>
+	<fontspec id="903" size="9" family="Times" color="#000000"/>
+	<fontspec id="904" size="9" family="Times" color="#000000"/>
+	<fontspec id="905" size="9" family="Times" color="#000000"/>
+	<fontspec id="906" size="9" family="Times" color="#000000"/>
+	<fontspec id="907" size="9" family="Times" color="#000000"/>
+	<fontspec id="908" size="9" family="Times" color="#000000"/>
+	<fontspec id="909" size="9" family="Times" color="#000000"/>
+	<fontspec id="910" size="9" family="Times" color="#000000"/>
+	<fontspec id="911" size="9" family="Times" color="#000000"/>
+	<fontspec id="912" size="9" family="Times" color="#000000"/>
+	<fontspec id="913" size="9" family="Times" color="#000000"/>
+	<fontspec id="914" size="9" family="Times" color="#000000"/>
+	<fontspec id="915" size="9" family="Times" color="#000000"/>
+	<fontspec id="916" size="9" family="Times" color="#000000"/>
+	<fontspec id="917" size="9" family="Times" color="#000000"/>
+	<fontspec id="918" size="9" family="Times" color="#000000"/>
+	<fontspec id="919" size="9" family="Times" color="#000000"/>
+	<fontspec id="920" size="9" family="Times" color="#000000"/>
+	<fontspec id="921" size="9" family="Times" color="#000000"/>
+	<fontspec id="922" size="9" family="Times" color="#000000"/>
+	<fontspec id="923" size="9" family="Times" color="#000000"/>
+	<fontspec id="924" size="9" family="Times" color="#000000"/>
+	<fontspec id="925" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="926" size="9" family="Helvetica" color="#000000"/>
+	<fontspec id="927" size="9" family="Helvetica" color="#000000"/>
+<text top="13" left="33" width="301" height="19" font="12">02 De La Guerra Commons (s)</text>
+<text top="10" left="1272" width="171" height="25" font="13">Weekly Menu</text>
+<text top="67" left="30" width="80" height="25" font="2">Dinner</text>
+<text top="134" left="115" width="63" height="14" font="14">March 30</text>
+<text top="114" left="119" width="57" height="14" font="4">Monday</text>
+<text top="134" left="317" width="63" height="14" font="15">March 31</text>
+<text top="117" left="317" width="61" height="14" font="4">Tuesday</text>
+<text top="135" left="522" width="51" height="14" font="16">April 01</text>
+<text top="117" left="506" width="84" height="14" font="4">Wednesday</text>
+<text top="135" left="723" width="51" height="14" font="16">April 02</text>
+<text top="118" left="715" width="68" height="14" font="4">Thursday</text>
+<text top="137" left="923" width="51" height="14" font="17">April 03</text>
+<text top="116" left="926" width="45" height="14" font="4">Friday</text>
+<text top="137" left="1125" width="51" height="14" font="18">April 04</text>
+<text top="116" left="1118" width="64" height="14" font="4">Saturday</text>
+<text top="137" left="1328" width="51" height="14" font="19">April 05</text>
+<text top="116" left="1326" width="54" height="14" font="4">Sunday</text>
+<text top="173" left="665" width="152" height="14" font="26">10 - Blue Plate Special</text>
+<text top="192" left="51" width="101" height="14" font="513">Vegan Vegetable Soup</text>
+<text top="210" left="51" width="56" height="14" font="515">Tri Tip Roast</text>
+<text top="228" left="51" width="127" height="14" font="519">Vgn Fresh Vegetable Medley</text>
+<text top="246" left="51" width="87" height="14" font="523">Lyonnaise Potatoes</text>
+<text top="264" left="51" width="104" height="14" font="526">Vgt Vegetable Turnover</text>
+<text top="282" left="51" width="59" height="14" font="38">Baked Potato</text>
+<text top="192" left="1256" width="99" height="14" font="530">Vegan Spaghetti Soup</text>
+<text top="210" left="1256" width="87" height="14" font="531">Barbequed Chicken</text>
+<text top="228" left="1256" width="107" height="14" font="536">Oven Browned Potatoes</text>
+<text top="246" left="1256" width="99" height="14" font="546">Vgt Broccoli Main Dish</text>
+<text top="264" left="1256" width="160" height="14" font="551">Vegan Fresh Veg/medley W/spinach</text>
+<text top="282" left="1256" width="59" height="14" font="57">Baked Potato</text>
+<text top="192" left="250" width="99" height="14" font="555">Vgt Tomato Rice Soup</text>
+<text top="210" left="250" width="108" height="14" font="559">Grilled Chicken Quarters</text>
+<text top="228" left="250" width="115" height="14" font="564">Vegan Stir Fry Vegetables</text>
+<text top="246" left="250" width="97" height="14" font="569">Mashed Red Potatoes</text>
+<text top="264" left="250" width="65" height="14" font="576">Chicken Gravy</text>
+<text top="282" left="250" width="59" height="14" font="577">Baked Potato</text>
+<text top="192" left="1053" width="80" height="14" font="579">Beef Noodle Soup</text>
+<text top="210" left="1053" width="61" height="14" font="580">Turkey Breast</text>
+<text top="228" left="1053" width="106" height="14" font="584">Peas With Small Onions</text>
+<text top="246" left="1053" width="105" height="14" font="589">Garlic Mashed Potatoes</text>
+<text top="264" left="1053" width="59" height="14" font="595">Turkey Gravy</text>
+<text top="282" left="1053" width="68" height="14" font="596">Bread Dressing</text>
+<text top="300" left="1053" width="59" height="14" font="57">Baked Potato</text>
+<text top="192" left="851" width="101" height="14" font="599">Vegan Vegetable Soup</text>
+<text top="210" left="851" width="50" height="14" font="333">Charburger</text>
+<text top="228" left="851" width="93" height="14" font="604">Vegan Gardenburger</text>
+<text top="246" left="851" width="105" height="14" font="608">Shoestring French Fries</text>
+<text top="264" left="851" width="127" height="14" font="612">Vgn Fresh Vegetable Medley</text>
+<text top="282" left="851" width="59" height="14" font="57">Baked Potato</text>
+<text top="192" left="651" width="66" height="14" font="615">Vgt Minestrone</text>
+<text top="210" left="651" width="92" height="14" font="618">Bbq Pork Spare Ribs</text>
+<text top="228" left="651" width="159" height="14" font="626">Vegan Roasted Red Potato Wedges</text>
+<text top="246" left="651" width="97" height="14" font="628">Fresh Broccoli Spears</text>
+<text top="264" left="651" width="59" height="14" font="64">Baked Potato</text>
+<text top="192" left="449" width="96" height="14" font="634">Vgt Potato Leek Soup</text>
+<text top="210" left="449" width="70" height="14" font="636">Pork Loin Roast</text>
+<text top="228" left="449" width="41" height="14" font="639">Rice Pilaf</text>
+<text top="246" left="449" width="71" height="14" font="648">Stuffed Zucchini</text>
+<text top="264" left="449" width="107" height="14" font="653">Italian Mixed Vegetables</text>
+<text top="282" left="449" width="59" height="14" font="77">Baked Potato</text>
+<text top="337" left="655" width="172" height="14" font="86">11 - Taqueria (East Side)</text>
+<text top="355" left="51" width="87" height="14" font="654">Chicken Enchiladas</text>
+<text top="373" left="51" width="136" height="14" font="657">Vegan Grilled Vegetable Tacos</text>
+<text top="391" left="51" width="89" height="14" font="95">Vegan Spanish Rice</text>
+<text top="409" left="51" width="62" height="14" font="98">Refried Beans</text>
+<text top="427" left="51" width="54" height="14" font="99">Flour Tortilla</text>
+<text top="445" left="51" width="120" height="14" font="104">Fire Roasted Tomato Salsa</text>
+<text top="355" left="1256" width="70" height="14" font="666">Beef Soft Tacos</text>
+<text top="373" left="1256" width="118" height="14" font="669">Vgt Black Bean Enchiladas</text>
+<text top="391" left="1256" width="59" height="14" font="676">Mexican Rice</text>
+<text top="409" left="1256" width="84" height="14" font="679">Vegan Pinto Beans</text>
+<text top="427" left="1256" width="54" height="14" font="680">Flour Tortilla</text>
+<text top="445" left="1256" width="120" height="14" font="683">Vegan Fresh Tomato Salsa</text>
+<text top="355" left="250" width="61" height="14" font="684">Carnitas Taco</text>
+<text top="373" left="250" width="148" height="14" font="689">Vgt Green Chili &amp; Cheese Tamale</text>
+<text top="391" left="250" width="83" height="14" font="691">Vegan Yellow Rice</text>
+<text top="409" left="250" width="84" height="14" font="694">Vegan Pinto Beans</text>
+<text top="427" left="250" width="54" height="14" font="695">Flour Tortilla</text>
+<text top="445" left="250" width="120" height="14" font="699">Vegan Fresh Tomato Salsa</text>
+<text top="355" left="1053" width="85" height="14" font="710">Chicken Soft Tacos</text>
+<text top="373" left="1053" width="70" height="14" font="711">Cheese Nachos</text>
+<text top="391" left="1053" width="89" height="14" font="713">Vegan Spanish Rice</text>
+<text top="409" left="1053" width="62" height="14" font="716">Refried Beans</text>
+<text top="427" left="1053" width="54" height="14" font="680">Flour Tortilla</text>
+<text top="445" left="1053" width="77" height="14" font="718">Black Bean Salsa</text>
+<text top="355" left="851" width="48" height="14" font="719">Fish Tacos</text>
+<text top="373" left="851" width="97" height="14" font="721">Vgt Cheese Enchilada</text>
+<text top="391" left="851" width="151" height="14" font="131">Vegan Rice W/cilantro And Onions</text>
+<text top="409" left="851" width="86" height="14" font="723">Vegan Black Beans</text>
+<text top="427" left="851" width="54" height="14" font="154">Flour Tortilla</text>
+<text top="445" left="851" width="120" height="14" font="138">Fire Roasted Tomato Salsa</text>
+<text top="355" left="651" width="90" height="14" font="728">Chicken Quesadillas</text>
+<text top="373" left="651" width="144" height="14" font="734">Vegan Black Bean &amp; Rice Burrito</text>
+<text top="391" left="651" width="89" height="14" font="150">Vegan Spanish Rice</text>
+<text top="409" left="651" width="84" height="14" font="153">Vegan Pinto Beans</text>
+<text top="427" left="651" width="54" height="14" font="99">Flour Tortilla</text>
+<text top="445" left="651" width="120" height="14" font="737">Vegan Fresh Tomato Salsa</text>
+<text top="355" left="449" width="87" height="14" font="739">Carne Asada Tacos</text>
+<text top="373" left="449" width="129" height="14" font="744">Vgt Bean And Cheese Burrito</text>
+<text top="391" left="449" width="81" height="14" font="165">Vegan Green Rice</text>
+<text top="409" left="449" width="120" height="14" font="170">Vegan Refried Black Beans</text>
+<text top="427" left="449" width="54" height="14" font="749">Flour Tortilla</text>
+<text top="482" left="705" width="71" height="14" font="178">12 - Pizza</text>
+<text top="501" left="51" width="72" height="14" font="179">Pepperoni Pizza</text>
+<text top="519" left="51" width="78" height="14" font="181">Vgt Cheese Pizza</text>
+<text top="537" left="51" width="53" height="14" font="185">Pizza Sticks</text>
+<text top="501" left="1256" width="115" height="14" font="751">Sausage Mushroom Pizza</text>
+<text top="519" left="1256" width="78" height="14" font="201">Vgt Cheese Pizza</text>
+<text top="537" left="1256" width="53" height="14" font="755">Pizza Sticks</text>
+<text top="501" left="250" width="83" height="14" font="757">Bbq Chicken Pizza</text>
+<text top="519" left="250" width="111" height="14" font="760">Vgt Pesto Artchoke Pizza</text>
+<text top="537" left="250" width="53" height="14" font="764">Pizza Sticks</text>
+<text top="501" left="1053" width="90" height="14" font="767">Assorted Meat Pizza</text>
+<text top="519" left="1053" width="78" height="14" font="201">Vgt Cheese Pizza</text>
+<text top="537" left="1053" width="53" height="14" font="755">Pizza Sticks</text>
+<text top="501" left="851" width="94" height="14" font="199">Ham &amp; Cheese Pizza</text>
+<text top="519" left="851" width="78" height="14" font="201">Vgt Cheese Pizza</text>
+<text top="537" left="851" width="53" height="14" font="755">Pizza Sticks</text>
+<text top="501" left="651" width="66" height="14" font="772">Sausage Pizza</text>
+<text top="519" left="651" width="141" height="14" font="211">Vgt Vegetable &amp; Jalapeno Pizza</text>
+<text top="537" left="651" width="53" height="14" font="196">Pizza Sticks</text>
+<text top="501" left="449" width="115" height="14" font="216">Bacon Tomato Basil Pizza</text>
+<text top="519" left="449" width="78" height="14" font="776">Vgt Cheese Pizza</text>
+<text top="537" left="449" width="53" height="14" font="185">Pizza Sticks</text>
+<text top="573" left="696" width="90" height="14" font="222">13 - To Order</text>
+<text top="592" left="51" width="68" height="14" font="784">Pork Fried Rice</text>
+<text top="610" left="51" width="163" height="14" font="791">Vegan Stir Fry Noodles &amp; Vegetables</text>
+<text top="628" left="51" width="90" height="14" font="239">Steamed White Rice</text>
+<text top="592" left="1256" width="83" height="14" font="801">Chicken Fried Rice</text>
+<text top="610" left="1256" width="155" height="14" font="807">Vgt Panfried Noodles W/vegetables</text>
+<text top="628" left="1256" width="50" height="14" font="811">Brown Rice</text>
+<text top="592" left="250" width="63" height="14" font="820">Beef Teriayaki</text>
+<text top="610" left="250" width="159" height="14" font="825">Vegan Vegetable Teriyaki Rice Bowl</text>
+<text top="628" left="250" width="90" height="14" font="828">Steamed White Rice</text>
+<text top="592" left="1053" width="119" height="14" font="840">Sesame Beef With Broccoli</text>
+<text top="610" left="1053" width="74" height="14" font="842">Vegan Kung Pao</text>
+<text top="628" left="1053" width="90" height="14" font="248">Steamed White Rice</text>
+<text top="592" left="851" width="113" height="14" font="847">Hawaiian Chicken Stir Fry</text>
+<text top="610" left="851" width="190" height="14" font="855">Vegan Stir Fry Vegetables W/peanut Sauce</text>
+<text top="628" left="851" width="90" height="14" font="248">Steamed White Rice</text>
+<text top="592" left="651" width="110" height="14" font="860">Alfredo Sauce W/chicken</text>
+<text top="610" left="651" width="82" height="14" font="872">Vgt Fettucini Pasta</text>
+<text top="628" left="651" width="73" height="14" font="874">Vgt Pesto Sauce</text>
+<text top="646" left="651" width="62" height="14" font="876">Linguini Pasta</text>
+<text top="664" left="651" width="90" height="14" font="880">Steamed White Rice</text>
+<text top="592" left="449" width="97" height="14" font="882">General Tsos Chicken</text>
+<text top="610" left="449" width="138" height="14" font="887">Vgt Lees Vegetable Chow Mein</text>
+<text top="628" left="449" width="90" height="14" font="296">Steamed White Rice</text>
+<text top="700" left="646" width="189" height="14" font="378">15 - Salads/Deli (West Side)</text>
+<text top="719" left="51" width="60" height="14" font="379">Caesar Salad</text>
+<text top="719" left="1256" width="60" height="14" font="888">Caesar Salad</text>
+<text top="719" left="250" width="60" height="14" font="889">Caesar Salad</text>
+<text top="719" left="1053" width="60" height="14" font="888">Caesar Salad</text>
+<text top="719" left="851" width="60" height="14" font="888">Caesar Salad</text>
+<text top="719" left="651" width="60" height="14" font="890">Caesar Salad</text>
+<text top="719" left="449" width="60" height="14" font="891">Caesar Salad</text>
+<text top="763" left="702" width="77" height="14" font="439">16 - Bakery</text>
+<text top="782" left="51" width="63" height="14" font="892">Cheese Bread</text>
+<text top="800" left="51" width="59" height="14" font="893">Blueberry Pie</text>
+<text top="782" left="1256" width="97" height="14" font="895">Cracked Wheat Bread</text>
+<text top="800" left="1256" width="78" height="14" font="897">French Peach Pie</text>
+<text top="782" left="250" width="55" height="14" font="898">Onion Bread</text>
+<text top="800" left="250" width="83" height="14" font="900">Cream Cheese Pie</text>
+<text top="782" left="1053" width="85" height="14" font="901">Sourdough Rounds</text>
+<text top="800" left="1053" width="140" height="14" font="907">White Cake W/ Chocolate Chips</text>
+<text top="818" left="1053" width="68" height="14" font="911">Chocolate Icing</text>
+<text top="782" left="851" width="79" height="14" font="915">Cornbread Muffin</text>
+<text top="800" left="851" width="106" height="14" font="918">Chocolate Chip Cookies</text>
+<text top="782" left="651" width="81" height="14" font="920">Three Grain Bread</text>
+<text top="800" left="651" width="99" height="14" font="922">Devils Food Cupcakes</text>
+<text top="782" left="449" width="65" height="14" font="923">Sesame Bread</text>
+<text top="800" left="449" width="47" height="14" font="924">Lemon Pie</text>
+<text top="882" left="1381" width="68" height="11" font="927">Page 6 of 17</text>
+<text top="882" left="32" width="189" height="11" font="425">Tuesday, March 17, 2009 16:59:06</text>
+<text top="882" left="354" width="138" height="11" font="429">Univ of CA Santa Barbara</text>
+<text top="882" left="680" width="130" height="11" font="432">The CBORD Group, Inc.</text>
+<text top="858" left="27" width="167" height="11" font="436">Courses selected: Selected All</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="918" width="1512">
+	<fontspec id="928" size="9" family="Times" color="#000000"/>
+	<fontspec id="929" size="9" family="Times" color="#000000"/>
+	<fontspec id="930" size="9" family="Times" color="#000000"/>
+	<fontspec id="931" size="9" family="Times" color="#000000"/>
+	<fontspec id="932" size="9" family="Times" color="#000000"/>
+	<fontspec id="933" size="9" family="Times" color="#000000"/>
+	<fontspec id="934" size="9" family="Times" color="#000000"/>
+	<fontspec id="935" size="9" family="Times" color="#000000"/>
+	<fontspec id="936" size="9" family="Times" color="#000000"/>
+	<fontspec id="937" size="9" family="Times" color="#000000"/>
+	<fontspec id="938" size="9" family="Times" color="#000000"/>
+	<fontspec id="939" size="9" family="Times" color="#000000"/>
+	<fontspec id="940" size="9" family="Times" color="#000000"/>
+	<fontspec id="941" size="9" family="Times" color="#000000"/>
+	<fontspec id="942" size="9" family="Times" color="#000000"/>
+	<fontspec id="943" size="9" family="Times" color="#000000"/>
+	<fontspec id="944" size="9" family="Times" color="#000000"/>
+	<fontspec id="945" size="9" family="Times" color="#000000"/>
+	<fontspec id="946" size="9" family="Times" color="#000000"/>
+	<fontspec id="947" size="9" family="Times" color="#000000"/>
+	<fontspec id="948" size="9" family="Times" color="#000000"/>
+	<fontspec id="949" size="9" family="Times" color="#000000"/>
+	<fontspec id="950" size="9" family="Times" color="#000000"/>
+	<fontspec id="951" size="9" family="Times" color="#000000"/>
+	<fontspec id="952" size="9" family="Times" color="#000000"/>
+	<fontspec id="953" size="9" family="Times" color="#000000"/>
+	<fontspec id="954" size="9" family="Times" color="#000000"/>
+	<fontspec id="955" size="9" family="Times" color="#000000"/>
+	<fontspec id="956" size="9" family="Times" color="#000000"/>
+	<fontspec id="957" size="9" family="Times" color="#000000"/>
+	<fontspec id="958" size="9" family="Times" color="#000000"/>
+	<fontspec id="959" size="9" family="Times" color="#000000"/>
+	<fontspec id="960" size="9" family="Times" color="#000000"/>
+	<fontspec id="961" size="9" family="Times" color="#000000"/>
+	<fontspec id="962" size="9" family="Times" color="#000000"/>
+	<fontspec id="963" size="9" family="Times" color="#000000"/>
+	<fontspec id="964" size="9" family="Times" color="#000000"/>
+	<fontspec id="965" size="9" family="Times" color="#000000"/>
+	<fontspec id="966" size="9" family="Times" color="#000000"/>
+	<fontspec id="967" size="9" family="Times" color="#000000"/>
+	<fontspec id="968" size="9" family="Times" color="#000000"/>
+	<fontspec id="969" size="9" family="Times" color="#000000"/>
+	<fontspec id="970" size="9" family="Times" color="#000000"/>
+	<fontspec id="971" size="9" family="Times" color="#000000"/>
+	<fontspec id="972" size="9" family="Times" color="#000000"/>
+	<fontspec id="973" size="9" family="Times" color="#000000"/>
+	<fontspec id="974" size="9" family="Times" color="#000000"/>
+	<fontspec id="975" size="9" family="Times" color="#000000"/>
+	<fontspec id="976" size="9" family="Times" color="#000000"/>
+	<fontspec id="977" size="9" family="Times" color="#000000"/>
+	<fontspec id="978" size="9" family="Times" color="#000000"/>
+	<fontspec id="979" size="9" family="Times" color="#000000"/>
+	<fontspec id="980" size="9" family="Times" color="#000000"/>
+	<fontspec id="981" size="9" family="Times" color="#000000"/>
+	<fontspec id="982" size="9" family="Times" color="#000000"/>
+	<fontspec id="983" size="9" family="Times" color="#000000"/>
+	<fontspec id="984" size="9" family="Times" color="#000000"/>
+	<fontspec id="985" size="9" family="Times" color="#000000"/>
+	<fontspec id="986" size="9" family="Times" color="#000000"/>
+	<fontspec id="987" size="9" family="Times" color="#000000"/>
+	<fontspec id="988" size="9" family="Times" color="#000000"/>
+	<fontspec id="989" size="9" family="Times" color="#000000"/>
+	<fontspec id="990" size="9" family="Times" color="#000000"/>
+	<fontspec id="991" size="9" family="Times" color="#000000"/>
+	<fontspec id="992" size="9" family="Times" color="#000000"/>
+	<fontspec id="993" size="9" family="Times" color="#000000"/>
+	<fontspec id="994" size="9" family="Times" color="#000000"/>
+	<fontspec id="995" size="9" family="Times" color="#000000"/>
+	<fontspec id="996" size="9" family="Times" color="#000000"/>
+	<fontspec id="997" size="9" family="Times" color="#000000"/>
+	<fontspec id="998" size="9" family="Times" color="#000000"/>
+	<fontspec id="999" size="9" family="Times" color="#000000"/>
+	<fontspec id="1000" size="9" family="Times" color="#000000"/>
+	<fontspec id="1001" size="9" family="Times" color="#000000"/>
+	<fontspec id="1002" size="9" family="Times" color="#000000"/>
+	<fontspec id="1003" size="9" family="Times" color="#000000"/>
+	<fontspec id="1004" size="9" family="Times" color="#000000"/>
+	<fontspec id="1005" size="9" family="Times" color="#000000"/>
+	<fontspec id="1006" size="9" family="Times" color="#000000"/>
+	<fontspec id="1007" size="9" family="Times" color="#000000"/>
+	<fontspec id="1008" size="9" family="Times" color="#000000"/>
+	<fontspec id="1009" size="9" family="Times" color="#000000"/>
+	<fontspec id="1010" size="9" family="Times" color="#000000"/>
+	<fontspec id="1011" size="9" family="Times" color="#000000"/>
+	<fontspec id="1012" size="9" family="Times" color="#000000"/>
+	<fontspec id="1013" size="9" family="Times" color="#000000"/>
+	<fontspec id="1014" size="9" family="Times" color="#000000"/>
+	<fontspec id="1015" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="1016" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="1017" size="9" family="Times" color="#000000"/>
+	<fontspec id="1018" size="9" family="Times" color="#000000"/>
+	<fontspec id="1019" size="9" family="Times" color="#000000"/>
+	<fontspec id="1020" size="9" family="Times" color="#000000"/>
+	<fontspec id="1021" size="9" family="Times" color="#000000"/>
+	<fontspec id="1022" size="9" family="Times" color="#000000"/>
+	<fontspec id="1023" size="9" family="Times" color="#000000"/>
+	<fontspec id="1024" size="9" family="Times" color="#000000"/>
+<text top="13" left="33" width="301" height="19" font="12">02 De La Guerra Commons (s)</text>
+<text top="10" left="1272" width="171" height="25" font="13">Weekly Menu</text>
+<text top="67" left="30" width="86" height="25" font="2">Brunch</text>
+<text top="134" left="115" width="63" height="14" font="14">March 30</text>
+<text top="114" left="119" width="57" height="14" font="4">Monday</text>
+<text top="134" left="317" width="63" height="14" font="15">March 31</text>
+<text top="117" left="317" width="61" height="14" font="4">Tuesday</text>
+<text top="135" left="522" width="51" height="14" font="16">April 01</text>
+<text top="117" left="506" width="84" height="14" font="4">Wednesday</text>
+<text top="135" left="723" width="51" height="14" font="16">April 02</text>
+<text top="118" left="715" width="68" height="14" font="4">Thursday</text>
+<text top="137" left="923" width="51" height="14" font="17">April 03</text>
+<text top="116" left="926" width="45" height="14" font="4">Friday</text>
+<text top="137" left="1125" width="51" height="14" font="18">April 04</text>
+<text top="116" left="1118" width="64" height="14" font="4">Saturday</text>
+<text top="137" left="1328" width="51" height="14" font="19">April 05</text>
+<text top="116" left="1326" width="54" height="14" font="4">Sunday</text>
+<text top="173" left="665" width="152" height="14" font="26">10 - Blue Plate Special</text>
+<text top="192" left="1256" width="143" height="14" font="933">Vegan Brown Rice &amp; Lentil Soup</text>
+<text top="210" left="1256" width="94" height="14" font="935">French Dip Sandwich</text>
+<text top="228" left="1256" width="102" height="14" font="939">Fresh Steamed Carrots</text>
+<text top="246" left="1256" width="59" height="14" font="57">Baked Potato</text>
+<text top="264" left="1256" width="90" height="14" font="248">Steamed White Rice</text>
+<text top="192" left="1053" width="101" height="14" font="943">Vegan Vegetable Soup</text>
+<text top="210" left="1053" width="166" height="14" font="948">Grilled Turkey &amp; Swiss On Sourdough</text>
+<text top="228" left="1053" width="78" height="14" font="950">Mixed Vegetables</text>
+<text top="246" left="1053" width="59" height="14" font="57">Baked Potato</text>
+<text top="264" left="1053" width="90" height="14" font="248">Steamed White Rice</text>
+<text top="301" left="705" width="71" height="14" font="178">12 - Pizza</text>
+<text top="319" left="1256" width="115" height="14" font="951">Sausage Mushroom Pizza</text>
+<text top="337" left="1256" width="78" height="14" font="201">Vgt Cheese Pizza</text>
+<text top="355" left="1256" width="53" height="14" font="755">Pizza Sticks</text>
+<text top="319" left="1053" width="90" height="14" font="953">Assorted Meat Pizza</text>
+<text top="337" left="1053" width="78" height="14" font="201">Vgt Cheese Pizza</text>
+<text top="355" left="1053" width="53" height="14" font="955">Pizza Sticks</text>
+<text top="392" left="689" width="103" height="14" font="301">14 - Grill (Cafe)</text>
+<text top="411" left="1256" width="74" height="14" font="957">Cream Of Wheat</text>
+<text top="429" left="1256" width="100" height="14" font="959">Fresh Scrambled Eggs</text>
+<text top="447" left="1256" width="100" height="14" font="962">Scrambled Egg Whites</text>
+<text top="465" left="1256" width="119" height="14" font="964">Apple Cinnamon Pancakes</text>
+<text top="483" left="1256" width="65" height="14" font="965">Sausage Links</text>
+<text top="501" left="1256" width="71" height="14" font="972">Potatoes Obrien</text>
+<text top="519" left="1256" width="106" height="14" font="978">Make Your Own Waffles</text>
+<text top="411" left="1053" width="74" height="14" font="980">Arroz Con Leche</text>
+<text top="429" left="1053" width="100" height="14" font="982">Fresh Scrambled Eggs</text>
+<text top="447" left="1053" width="100" height="14" font="962">Scrambled Egg Whites</text>
+<text top="465" left="1053" width="73" height="14" font="989">Breakfast Burrito</text>
+<text top="483" left="1053" width="52" height="14" font="990">Grilled Ham</text>
+<text top="501" left="1053" width="58" height="14" font="996">Hash Browns</text>
+<text top="519" left="1053" width="106" height="14" font="978">Make Your Own Waffles</text>
+<text top="555" left="646" width="189" height="14" font="378">15 - Salads/Deli (West Side)</text>
+<text top="574" left="1256" width="116" height="14" font="1007">Red Potato Salad With Dill</text>
+<text top="592" left="1256" width="74" height="14" font="1009">Sliced Cantalope</text>
+<text top="610" left="1256" width="76" height="14" font="1010">Sliced Honeydew</text>
+<text top="628" left="1256" width="76" height="14" font="1012">Grapefruit Halves</text>
+<text top="574" left="1053" width="60" height="14" font="888">Caesar Salad</text>
+<text top="592" left="1053" width="74" height="14" font="1014">Sliced Cantalope</text>
+<text top="610" left="1053" width="76" height="14" font="1010">Sliced Honeydew</text>
+<text top="628" left="1053" width="76" height="14" font="1012">Grapefruit Halves</text>
+<text top="664" left="702" width="77" height="14" font="439">16 - Bakery</text>
+<text top="683" left="1256" width="30" height="14" font="6">Bagels</text>
+<text top="701" left="1256" width="125" height="14" font="1019">Whole Wheat Banana Bread</text>
+<text top="683" left="1053" width="81" height="14" font="1020">Applesauce Bread</text>
+<text top="701" left="1053" width="72" height="14" font="1024">Blueberry Muffin</text>
+<text top="882" left="1381" width="68" height="11" font="927">Page 7 of 17</text>
+<text top="882" left="32" width="189" height="11" font="425">Tuesday, March 17, 2009 16:59:06</text>
+<text top="882" left="354" width="138" height="11" font="429">Univ of CA Santa Barbara</text>
+<text top="882" left="680" width="130" height="11" font="432">The CBORD Group, Inc.</text>
+<text top="858" left="27" width="167" height="11" font="436">Courses selected: Selected All</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="918" width="1512">
+	<fontspec id="1025" size="25" family="Helvetica" color="#000000"/>
+	<fontspec id="1026" size="9" family="Times" color="#000000"/>
+	<fontspec id="1027" size="9" family="Times" color="#000000"/>
+	<fontspec id="1028" size="9" family="Times" color="#000000"/>
+	<fontspec id="1029" size="9" family="Times" color="#000000"/>
+	<fontspec id="1030" size="9" family="Times" color="#000000"/>
+	<fontspec id="1031" size="9" family="Times" color="#000000"/>
+	<fontspec id="1032" size="9" family="Times" color="#000000"/>
+	<fontspec id="1033" size="9" family="Times" color="#000000"/>
+	<fontspec id="1034" size="9" family="Times" color="#000000"/>
+	<fontspec id="1035" size="9" family="Times" color="#000000"/>
+	<fontspec id="1036" size="9" family="Times" color="#000000"/>
+	<fontspec id="1037" size="9" family="Times" color="#000000"/>
+	<fontspec id="1038" size="9" family="Times" color="#000000"/>
+	<fontspec id="1039" size="9" family="Times" color="#000000"/>
+	<fontspec id="1040" size="9" family="Times" color="#000000"/>
+	<fontspec id="1041" size="9" family="Times" color="#000000"/>
+	<fontspec id="1042" size="9" family="Times" color="#000000"/>
+	<fontspec id="1043" size="9" family="Times" color="#000000"/>
+	<fontspec id="1044" size="9" family="Times" color="#000000"/>
+	<fontspec id="1045" size="9" family="Times" color="#000000"/>
+	<fontspec id="1046" size="9" family="Times" color="#000000"/>
+	<fontspec id="1047" size="9" family="Times" color="#000000"/>
+	<fontspec id="1048" size="9" family="Times" color="#000000"/>
+	<fontspec id="1049" size="9" family="Times" color="#000000"/>
+	<fontspec id="1050" size="9" family="Times" color="#000000"/>
+	<fontspec id="1051" size="9" family="Times" color="#000000"/>
+	<fontspec id="1052" size="9" family="Times" color="#000000"/>
+	<fontspec id="1053" size="9" family="Times" color="#000000"/>
+	<fontspec id="1054" size="9" family="Times" color="#000000"/>
+	<fontspec id="1055" size="9" family="Times" color="#000000"/>
+	<fontspec id="1056" size="9" family="Times" color="#000000"/>
+	<fontspec id="1057" size="9" family="Times" color="#000000"/>
+	<fontspec id="1058" size="9" family="Times" color="#000000"/>
+	<fontspec id="1059" size="9" family="Times" color="#000000"/>
+	<fontspec id="1060" size="9" family="Times" color="#000000"/>
+	<fontspec id="1061" size="9" family="Times" color="#000000"/>
+	<fontspec id="1062" size="9" family="Times" color="#000000"/>
+	<fontspec id="1063" size="9" family="Times" color="#000000"/>
+	<fontspec id="1064" size="9" family="Times" color="#000000"/>
+	<fontspec id="1065" size="9" family="Times" color="#000000"/>
+	<fontspec id="1066" size="9" family="Times" color="#000000"/>
+	<fontspec id="1067" size="9" family="Times" color="#000000"/>
+	<fontspec id="1068" size="9" family="Times" color="#000000"/>
+	<fontspec id="1069" size="9" family="Times" color="#000000"/>
+	<fontspec id="1070" size="9" family="Times" color="#000000"/>
+	<fontspec id="1071" size="9" family="Times" color="#000000"/>
+	<fontspec id="1072" size="9" family="Times" color="#000000"/>
+	<fontspec id="1073" size="9" family="Times" color="#000000"/>
+	<fontspec id="1074" size="9" family="Times" color="#000000"/>
+	<fontspec id="1075" size="9" family="Times" color="#000000"/>
+	<fontspec id="1076" size="9" family="Times" color="#000000"/>
+	<fontspec id="1077" size="9" family="Times" color="#000000"/>
+	<fontspec id="1078" size="9" family="Times" color="#000000"/>
+	<fontspec id="1079" size="9" family="Times" color="#000000"/>
+	<fontspec id="1080" size="9" family="Times" color="#000000"/>
+	<fontspec id="1081" size="9" family="Times" color="#000000"/>
+	<fontspec id="1082" size="9" family="Times" color="#000000"/>
+	<fontspec id="1083" size="9" family="Times" color="#000000"/>
+	<fontspec id="1084" size="9" family="Times" color="#000000"/>
+	<fontspec id="1085" size="9" family="Times" color="#000000"/>
+	<fontspec id="1086" size="9" family="Times" color="#000000"/>
+	<fontspec id="1087" size="9" family="Times" color="#000000"/>
+	<fontspec id="1088" size="9" family="Times" color="#000000"/>
+	<fontspec id="1089" size="9" family="Times" color="#000000"/>
+	<fontspec id="1090" size="9" family="Times" color="#000000"/>
+	<fontspec id="1091" size="9" family="Times" color="#000000"/>
+	<fontspec id="1092" size="9" family="Times" color="#000000"/>
+	<fontspec id="1093" size="9" family="Times" color="#000000"/>
+	<fontspec id="1094" size="9" family="Times" color="#000000"/>
+	<fontspec id="1095" size="9" family="Times" color="#000000"/>
+	<fontspec id="1096" size="9" family="Times" color="#000000"/>
+	<fontspec id="1097" size="9" family="Times" color="#000000"/>
+	<fontspec id="1098" size="9" family="Times" color="#000000"/>
+	<fontspec id="1099" size="9" family="Times" color="#000000"/>
+	<fontspec id="1100" size="9" family="Times" color="#000000"/>
+	<fontspec id="1101" size="9" family="Times" color="#000000"/>
+	<fontspec id="1102" size="9" family="Times" color="#000000"/>
+	<fontspec id="1103" size="9" family="Times" color="#000000"/>
+	<fontspec id="1104" size="9" family="Times" color="#000000"/>
+	<fontspec id="1105" size="9" family="Times" color="#000000"/>
+	<fontspec id="1106" size="9" family="Times" color="#000000"/>
+	<fontspec id="1107" size="9" family="Times" color="#000000"/>
+	<fontspec id="1108" size="9" family="Times" color="#000000"/>
+	<fontspec id="1109" size="9" family="Times" color="#000000"/>
+	<fontspec id="1110" size="9" family="Times" color="#000000"/>
+	<fontspec id="1111" size="9" family="Times" color="#000000"/>
+	<fontspec id="1112" size="9" family="Times" color="#000000"/>
+	<fontspec id="1113" size="9" family="Times" color="#000000"/>
+	<fontspec id="1114" size="9" family="Times" color="#000000"/>
+	<fontspec id="1115" size="9" family="Times" color="#000000"/>
+	<fontspec id="1116" size="9" family="Times" color="#000000"/>
+	<fontspec id="1117" size="9" family="Times" color="#000000"/>
+	<fontspec id="1118" size="9" family="Times" color="#000000"/>
+	<fontspec id="1119" size="9" family="Times" color="#000000"/>
+	<fontspec id="1120" size="9" family="Times" color="#000000"/>
+	<fontspec id="1121" size="9" family="Times" color="#000000"/>
+	<fontspec id="1122" size="9" family="Times" color="#000000"/>
+<text top="13" left="33" width="301" height="19" font="12">02 De La Guerra Commons (s)</text>
+<text top="10" left="1272" width="171" height="25" font="13">Weekly Menu</text>
+<text top="67" left="30" width="123" height="25" font="1025">Late Night</text>
+<text top="134" left="115" width="63" height="14" font="14">March 30</text>
+<text top="114" left="119" width="57" height="14" font="4">Monday</text>
+<text top="134" left="317" width="63" height="14" font="15">March 31</text>
+<text top="117" left="317" width="61" height="14" font="4">Tuesday</text>
+<text top="135" left="522" width="51" height="14" font="16">April 01</text>
+<text top="117" left="506" width="84" height="14" font="4">Wednesday</text>
+<text top="135" left="723" width="51" height="14" font="16">April 02</text>
+<text top="118" left="715" width="68" height="14" font="4">Thursday</text>
+<text top="137" left="923" width="51" height="14" font="17">April 03</text>
+<text top="116" left="926" width="45" height="14" font="4">Friday</text>
+<text top="137" left="1125" width="51" height="14" font="18">April 04</text>
+<text top="116" left="1118" width="64" height="14" font="4">Saturday</text>
+<text top="137" left="1328" width="51" height="14" font="19">April 05</text>
+<text top="116" left="1326" width="54" height="14" font="4">Sunday</text>
+<text top="173" left="689" width="103" height="14" font="301">14 - Grill (Cafe)</text>
+<text top="192" left="51" width="50" height="14" font="1033">Charburger</text>
+<text top="210" left="51" width="93" height="14" font="302">Vegan Gardenburger</text>
+<text top="228" left="51" width="138" height="14" font="1037">Grilled Cheddar On Wheatberry</text>
+<text top="246" left="51" width="106" height="14" font="1041">Chicken Patty Sandwich</text>
+<text top="264" left="51" width="106" height="14" font="1044">Krinkle Cut French Fries</text>
+<text top="282" left="51" width="60" height="14" font="379">Caesar Salad</text>
+<text top="192" left="250" width="62" height="14" font="6">Cheeseburger</text>
+<text top="210" left="250" width="93" height="14" font="353">Vegan Gardenburger</text>
+<text top="228" left="250" width="138" height="14" font="1047">Grilled Cheddar On Wheatberry</text>
+<text top="246" left="250" width="47" height="14" font="1051">Corn Dogs</text>
+<text top="264" left="250" width="105" height="14" font="1053">Shoestring French Fries</text>
+<text top="282" left="250" width="60" height="14" font="1054">Caesar Salad</text>
+<text top="192" left="651" width="50" height="14" font="352">Charburger</text>
+<text top="210" left="651" width="113" height="14" font="336">Vegan Black Bean Burger</text>
+<text top="228" left="651" width="158" height="14" font="1060">Grilled Cheese Sandwich On Wheat</text>
+<text top="246" left="651" width="64" height="14" font="1062">Vgt Quesadilla</text>
+<text top="264" left="651" width="50" height="14" font="1068">Steak Fries</text>
+<text top="282" left="651" width="60" height="14" font="890">Caesar Salad</text>
+<text top="192" left="449" width="62" height="14" font="6">Cheeseburger</text>
+<text top="210" left="449" width="93" height="14" font="362">Vegan Gardenburger</text>
+<text top="228" left="449" width="111" height="14" font="1070">Grilled Cheese Sandwich</text>
+<text top="246" left="449" width="153" height="14" font="1075">Roast Beef &amp; Swiss On Sourdough</text>
+<text top="264" left="449" width="105" height="14" font="1079">Shoestring French Fries</text>
+<text top="282" left="449" width="60" height="14" font="1080">Caesar Salad</text>
+<text top="319" left="702" width="77" height="14" font="439">16 - Bakery</text>
+<text top="337" left="51" width="116" height="14" font="1094">Choc Chocolate Chip Bars</text>
+<text top="337" left="250" width="159" height="14" font="1111">Confetti Cake W/ Butter Cream Icing</text>
+<text top="337" left="651" width="40" height="14" font="1115">Brownies</text>
+<text top="355" left="651" width="68" height="14" font="1119">Chocolate Icing</text>
+<text top="337" left="449" width="67" height="14" font="1122">Toffee Squares</text>
+<text top="882" left="1381" width="68" height="11" font="420">Page 8 of 17</text>
+<text top="882" left="32" width="189" height="11" font="425">Tuesday, March 17, 2009 16:59:06</text>
+<text top="882" left="354" width="138" height="11" font="429">Univ of CA Santa Barbara</text>
+<text top="882" left="680" width="130" height="11" font="432">The CBORD Group, Inc.</text>
+<text top="858" left="27" width="167" height="11" font="436">Courses selected: Selected All</text>
+</page>
+</pdf2xml>
