@@ -13,7 +13,7 @@ ortega
 http://www.housing.ucsb.edu/dining/menu/<name>/ThisWeekMenu.pdf
 http://www.housing.ucsb.edu/dining/menu/<name>/NextWeekMenu.pdf
 
-2) Convert PDFs to HTML
+2) Convert PDFs to XML
 3) Split PDFs to Meals
 4) Get Valid Dates 
 4) Split PDFs into Areas
