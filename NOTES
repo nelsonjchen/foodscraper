@@ -13,7 +13,10 @@ ortega
 http://www.housing.ucsb.edu/dining/menu/<name>/ThisWeekMenu.pdf
 http://www.housing.ucsb.edu/dining/menu/<name>/NextWeekMenu.pdf
 
-2)
-
-Scrape PDFs
-
+2) Convert PDFs to HTML
+3) Split PDFs to Meals
+4) Get Valid Dates 
+4) Split PDFs into Areas
+5) Split Entrees into Days
+6) Process Entrees into Name, Day, Area
+7) Store Results in Database
