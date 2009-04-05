@@ -20,3 +20,12 @@ http://www.housing.ucsb.edu/dining/menu/<name>/NextWeekMenu.pdf
 5) Split Entrees into Days
 6) Process Entrees into Name, Day, Area
 7) Store Results in Database
+
+Page 
+Boundaries in XML
+
+811 From Top <bottom most>
+<text top="811" left="51" width="76" height="14" font="388">Colorful Coleslaw</text>
+
+67 From Top <Meal>
+<text top="67" left="30" width="74" height="25" font="2">Lunch</text>
