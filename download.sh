@@ -1,5 +1,6 @@
 #!/usr/bin/env sh
 
+# Requires PDFtoHTML with output to xml.
 mkdir "$(dirname $0)/menus"
 # Grabs PDF and make XML
 
