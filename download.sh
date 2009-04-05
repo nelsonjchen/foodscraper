@@ -1,5 +1,6 @@
 #!/usr/bin/env sh
 
+mkdir "$(dirname $0)/menus"
 # Grab PDF and make XML
 
 # DLG
